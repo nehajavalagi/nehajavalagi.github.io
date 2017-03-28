@@ -1,0 +1,49 @@
+url: https://y7kim.github.io
+baseurl: /neha
+
+# Site settings
+title: Neha Javalagi
+email: neha.javalagi@gmail.com
+description: "Portfolio of an aspiring User Experience researcher"
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: envelope 
+    url: mailto:neha.javalagi@gmail.com
+  - title: twitter
+    url: https://twitter.com/nehajava
+  - title: facebook
+    url: https://www.facebook.com/neha.javalagi/
+  - title: pinterest
+    url: http://pinterest.com/nehajavalagi
+  - title: linkedin 
+    url: https://www.linkedin.com/in/nehajavalagi/
+
+#infp
+traits:
+  - left: Introvert
+    right: Extrovert
+    value: 20
+  - left: Sensing
+    right: Intuition
+    value: 70
+  - left: Thinking
+    right: Feeling
+    value: 75
+  - left: Judging
+    right: Perceiving
+    value: 85
+
+attributes: 
+  - Software artist
+  - Design thinker
+  - Empath
+  - Poet
+  - Thoughtful
+  - Sensitive
+  
+# Build settings
+markdown: kramdown
+permalink: pretty
+

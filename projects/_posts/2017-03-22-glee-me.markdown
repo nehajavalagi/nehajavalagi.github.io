@@ -1,0 +1,51 @@
+---
+title: Glee.me
+subtitle: Putting an APP in hAPPiness
+layout: project
+date: 2017-03-01
+img: happiness.jpg
+thumbnail: happiness.jpg
+permalink: projects/glee-me
+---
+
+### Purpose
+
+#### My happiness is not a number and it is not binary
+
+As a graduate student I understand that the purpose of my education here is to empower me with tools or skill sets to help me lead a happier more fulfilling life and then help others do the same. With this as my mission statement, I embarked on my personal project of mappiness (**mapping my happiness**) to understand my happiness better so I make more happiness maximising choices every step of the way. First, it involved acknowledging that my happiness is not selfish. It is beautiful, pervasive and an intrinsic reward.
+
+To start my journey, I took a Coursera course called *A life of happiness and fulfillment* to better understand the science behind happiness. The more I understand and research the science behind it, the more I believe that happiness is an art. First, I realised that I had to define what happiness meant for me as we devalue things we don’t understand.
+
+>A feeling of being content with the reality of life, a sense of purpose that inspires creativity and passion, feeling gratitude towards there and compassion towards self.
+
+Putting my happiness definition in words, made me realise that most of my actions reflected medium maximisation: forgetting what I really wanted and chasing mediums that were supposed to get me where I wanted. Where was I going anyways? I decided that happiness is not a final goal that I intended to reach by the end of this project but a process I immerse myself into whilst doing this project. I am **design thinking** my happiness. 
+
+Based on my new found definition of happiness, I am defining my purpose in this project:
+
+>Designing with a sense of purpose channeling creativity and passion to induce feelings of gratitude and compassion by self-reflection.
+
+Studying self-compassion and gratitude encouraged me to better understand connections, to recognise common humanity with people. I believe that this was an important milestone for me as a UX researcher.
+
+### Project Description
+
+Glee.me is a smartphone application that uses concepts of **experience sampling** and **day recollection method** (DRM) for subjective well-being assessment. Analysing well-being scores would involve trend analysis and visualisation to promote self reflection and behavioural change. This application will aim to define design principles for non-judgemental design in the space of mental health applications. Over the course of this project, I will maintain a happiness diary, take weekly subjective well-being tests, get certified on the course and create a design prototype for a smartphone application called Glee.me. In the end I hope to answer the following questions:
+* Did self-tracking my happiness represent my happiness trends accurately ?
+* Did self-tracking improve my happiness levels ?
+* Did I find correlations in my mediums and the reasons for my happiness ?
+* Did this tool empower me in my search for happiness ?
+* Did I feel objectively judged/ depressed / insecure about the happiness scores I received ?
+
+### Initial work
+
+Before I started designing the application, I decided to evaluate existing applications in the space of mood tracking and mental health. These included: Mood track, Track my Happiness, moodPanda etc and evaluated them on a general health application evaluation scale. Pain points and features were extracted.
+
+### Mood board
+
+<a data-pin-do="embedBoard" data-pin-board-width="800" data-pin-scale-height="450" data-pin-scale-width="80" href="https://www.pinterest.com/nehajavalagi/my-happiness-project-health-board/"></a>
+
+### Current work
+
+* Earn a certified Coursera certificate on the following course: A Life of Happiness and Fulfilment: Dr Rajagopal Raghunathan
+* Maintaining a happiness diary tracking the journey of understanding the science behind happiness, taking more happiness maximising decisions to lead a fuller life and taking subjective well-being tests for objective comparison of happiness levels.
+* Testing of applications in the mental health space to study design patterns and how they relate to intuitive non-judgemental apps
+* Creating prototypes for smartphone application glee.me

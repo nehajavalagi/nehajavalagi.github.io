@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+    <body id="page-top" style="padding-top: 120px;" class="index">
+    {% include header.html %}
+	<div class="container" style="margin-bottom: 75px;">
+		<div class="row">
+			<div class="col-md-offset-1 col-md-10">
+				<h2>{{ page.title }}</h2>
+				<hr class="star-primary">
+				<div>
+					<img src="{{ site.baseurl }}/img/projects/{{ page.img }}" class="img-responsive img-centered">
+					<p>{{ page.content }}</p>
+				</div>
+			</div>
+		</div>	
+	</div>
+	{% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>
