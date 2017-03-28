@@ -1,5 +1,5 @@
 ---
-title: A Content strategy for users
+title: A content strategy for users
 subtitle: S(e)O, you think you can write for the web?
 layout: post
 date: 2017-03-28

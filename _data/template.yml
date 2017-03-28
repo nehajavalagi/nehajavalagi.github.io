@@ -8,6 +8,14 @@ color:
   header-secondary: bb4e6b
 
 # Font Families
-font:
+originalfont:
   primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  body: '"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif'
+  header: '"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive'
+
+font:
+  primary: 'Lato, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: 'Lato, "Helvetica Neue", Helvetica,Arial,sans-serif'
+  body: 'Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif'
+  header: 'Cookie,"Helvetica Neue",Helvetica,Arial,cursive'
