@@ -279,7 +279,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/neha/img/header-bg.jpg');
+    background-image: url('/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -670,7 +670,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/neha/img/map-image.png');
+    background-image: url('/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -911,5 +911,10 @@ body {
     /*background-color: #CF423C;*/
     font-weight: normal;
     border-radius: 0.2em;
+}
+
+.wide-spaced{
+	line-height: 2.5;
+	font-size: 16px;
 }
 

@@ -904,3 +904,8 @@ body {
     font-weight: normal;
     border-radius: 0.2em;
 }
+
+.wide-spaced{
+	line-height: 2.5;
+	font-size: 16px;
+}

@@ -3,11 +3,52 @@
   <channel>
     <title>Neha Javalagi</title>
     <description>Portfolio of an aspiring User Experience researcher</description>
-    <link>http://localhost:4000/neha/</link>
-    <atom:link href="http://localhost:4000/neha/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Mar 2017 18:07:53 -0500</pubDate>
-    <lastBuildDate>Sat, 25 Mar 2017 18:07:53 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 28 Mar 2017 01:51:25 -0500</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 01:51:25 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>A Content strategy for users</title>
+        <description>&lt;p&gt;1) &lt;strong&gt;Content : To what degree?&lt;/strong&gt;&lt;br /&gt;
+Content is not what you make for users. It is what you make users.&lt;/p&gt;
+
+&lt;p&gt;2) &lt;strong&gt;Optimised for people&lt;/strong&gt;&lt;br /&gt;
+Content that doesn’t click with people won’t ad revenue.&lt;/p&gt;
+
+&lt;p&gt;3) &lt;strong&gt;Dig your face in a book of facts&lt;/strong&gt;&lt;br /&gt;
+Never elect to be silent to see a better ‘Day’. Alternate realities and facts are oculus windows that create rifts.&lt;/p&gt;
+
+&lt;p&gt;4) &lt;strong&gt;Baiting pros are cons&lt;/strong&gt;&lt;br /&gt;
+Help scoop up the whooping mess on the internet caused by content that goes down a point every time.&lt;/p&gt;
+
+&lt;p&gt;5) &lt;strong&gt;The hands of time scroll faster&lt;/strong&gt;&lt;br /&gt;
+Oh, snap! How do you write for millennials with a 7 second attention span? Filter text to say what you need to without losing character. #Words #shouldn’t #just #tag #along #should #they?&lt;/p&gt;
+
+&lt;p&gt;6) &lt;strong&gt;The figures of speech should be exercised and maintained&lt;/strong&gt;&lt;br /&gt;
+As users read between the lines, remember to make a (correct) mark. Grammar is cool and we’re the punktuators.&lt;/p&gt;
+
+&lt;p&gt;7) &lt;strong&gt;Level the reading play field&lt;/strong&gt; &lt;br /&gt;
+Are you smarter than the average 5th grader? While Brobdingnagion words define their own space, transcend to say it better.&lt;/p&gt;
+
+&lt;p&gt;8) &lt;strong&gt;In-credible content&lt;/strong&gt;&lt;br /&gt;
+It is important to note that attributers and contributors should have due re-cognition. The links you create with people, will be a result ranked higher.&lt;/p&gt;
+
+&lt;p&gt;9) &lt;strong&gt;Web of complex connections&lt;/strong&gt;&lt;br /&gt;
+If your audience encounters jargon they’re far gone. Understand your audience, so you do them write.&lt;/p&gt;
+
+&lt;p&gt;10) &lt;strong&gt;Small screen to a wordy view?&lt;/strong&gt;&lt;br /&gt;
+Users should be left to their own devices. Writing should come in all sizes.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 28 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/2017/03/28/content-strategy/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/03/28/content-strategy/</guid>
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>Poet as a UX researcher</title>
@@ -52,8 +93,8 @@ A long way to go from a meter to a mile,&lt;br /&gt;
 But a lean woman stands Fr Agile&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Mar 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/neha/posts/2017/03/22/poet-ux/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2017/03/22/poet-ux/</guid>
+        <link>http://localhost:4000/posts/2017/03/22/poet-ux/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/03/22/poet-ux/</guid>
         
         <category>design</category>
         
@@ -94,8 +135,8 @@ I Design thinking of making a difference.&lt;/p&gt;
 &lt;p&gt;I am a computer artist.&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Mar 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/neha/posts/2017/03/22/software-artist/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2017/03/22/software-artist/</guid>
+        <link>http://localhost:4000/posts/2017/03/22/software-artist/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/03/22/software-artist/</guid>
         
         <category>design</category>
         
@@ -152,8 +193,8 @@ Can I first be a model human?&lt;/p&gt;
 Are you righting code or wronging it?&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Mar 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/neha/posts/2017/03/21/perils-ml/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2017/03/21/perils-ml/</guid>
+        <link>http://localhost:4000/posts/2017/03/21/perils-ml/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/03/21/perils-ml/</guid>
         
         <category>design</category>
         
@@ -197,8 +238,8 @@ A deeper machine could learn its own identity.&lt;br /&gt;
 &lt;em&gt;I shout out to your assistance.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/neha/posts/2017/02/27/voice-assistants/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2017/02/27/voice-assistants/</guid>
+        <link>http://localhost:4000/posts/2017/02/27/voice-assistants/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/02/27/voice-assistants/</guid>
         
         <category>design</category>
         
@@ -244,8 +285,8 @@ A deeper machine could learn its own identity.&lt;br /&gt;
 &lt;p&gt;And as we celebrate their 50 years together I understand the gravity of Newtonian time.I think I understand what forever means now. This is forever.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/neha/posts/2017/02/27/connecting-generations/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2017/02/27/connecting-generations/</guid>
+        <link>http://localhost:4000/posts/2017/02/27/connecting-generations/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/02/27/connecting-generations/</guid>
         
         <category>design</category>
         
@@ -299,8 +340,8 @@ There’s no fading with this backed up light.&lt;/p&gt;
 &lt;strong&gt;I’m a pianist on a MacBook pro.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/neha/posts/2017/02/11/keyboard/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2017/02/11/keyboard/</guid>
+        <link>http://localhost:4000/posts/2017/02/11/keyboard/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/02/11/keyboard/</guid>
         
         <category>design</category>
         
@@ -344,8 +385,8 @@ You’re open to questions, and I know I’ve fired&lt;br /&gt;
 “Is this where my dreams get hired?“&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Jan 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/neha/posts/2017/01/29/innerview/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2017/01/29/innerview/</guid>
+        <link>http://localhost:4000/posts/2017/01/29/innerview/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/01/29/innerview/</guid>
         
         <category>design</category>
         
@@ -394,8 +435,8 @@ What can I tell y’all,&lt;br /&gt;
 I’ve warmed upto Austin.&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/neha/posts/2016/10/02/austintatious-journey/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2016/10/02/austintatious-journey/</guid>
+        <link>http://localhost:4000/posts/2016/10/02/austintatious-journey/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/10/02/austintatious-journey/</guid>
         
         <category>design</category>
         
@@ -440,90 +481,8 @@ words don’t change with  date.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 26 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/neha/posts/2016/09/26/postcards/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2016/09/26/postcards/</guid>
-        
-        <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Poetry in a dress</title>
-        <description>&lt;p&gt;&lt;em&gt;(Word cloud generated using python nltk and Word Cloud library. Words have been taken from all my online published content)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I am poetry in a dress.&lt;br /&gt;
-You think you know what it means;&lt;br /&gt;
-You think you know why it reads like it reads,&lt;br /&gt;
-And why it doesn’t rhyme at parts.&lt;br /&gt;
-You feel like it doesn’t make sense that,&lt;br /&gt;
-some lines are bolder than the others.&lt;br /&gt;
-You find that some lines are darker,&lt;br /&gt;
-Some white spaces unusually long;&lt;br /&gt;
-I tell you that each word scratched,&lt;br /&gt;
-Is a change in my character.&lt;br /&gt;
-You follow the lines, on the paper ivory.&lt;br /&gt;
-And the paper folds with your touch,&lt;br /&gt;
-Into origami, frail and beautiful.&lt;br /&gt;
-But frail.&lt;br /&gt;
-You see some i’s are dotted, and maybe,&lt;br /&gt;
-maybe we can trace back where i lost i.&lt;br /&gt;
-It muddles your mind with what it means,&lt;br /&gt;
-whether it’s madness or  magic.&lt;br /&gt;
-Is there ever a between?&lt;br /&gt;
-You wonder why it gets longer but gets nowhere,&lt;br /&gt;
-why it drags some words.&lt;br /&gt;
-Why some words carry weight of their own.&lt;br /&gt;
-Some words serve their sentence,&lt;br /&gt;
-for meaning too much too soon.&lt;br /&gt;
-Some, in a bad phrase, for meaning too little.&lt;br /&gt;
-And some carved onto me, like a scar&lt;br /&gt;
-And you wonder if it’s a tattoo.&lt;br /&gt;
-You read it once; you read it twice.&lt;br /&gt;
-You say you like it.&lt;br /&gt;
-But do you like the white spaces?&lt;br /&gt;
-The obvious fullstops, the questioning marks.&lt;br /&gt;
-The unsure semicolons; the harsh exclamations.&lt;br /&gt;
-Do you like how it sounds on your tongue,&lt;br /&gt;
-whether it melts or it rolls.&lt;br /&gt;
-whether you can say it without changing a bit.&lt;br /&gt;
-You ask for the rhyming scheme,&lt;br /&gt;
-But I am not measured by what they say.&lt;br /&gt;
-I have drawn few lines, and danced around them,&lt;br /&gt;
-Written to read what i felt.&lt;br /&gt;
-Woven with my dreams and all those characters I meet,&lt;br /&gt;
-who took my words without my permission.&lt;br /&gt;
-And some left their assigned lines to float over.&lt;br /&gt;
-So I keep my lines in check, but i wonder over the whatifs,&lt;br /&gt;
-if i need some handy semicolons.&lt;br /&gt;
-You ask me why i use a typewriter,&lt;br /&gt;
-Going back is a luxury I tell you.&lt;br /&gt;
-Each word is hard-hitting, it’s a part of my soul,&lt;br /&gt;
-Then why did I choose to read it out to you?&lt;br /&gt;
-Can you hear where my voice trembled,&lt;br /&gt;
-read; where my hands shook.&lt;br /&gt;
-Can you tell me, what it tells you.&lt;br /&gt;
-Does it bother you when it takes sharp turns,&lt;br /&gt;
-Does it hurt you when words were shared?&lt;br /&gt;
-Does it even matter, that some have bled.&lt;br /&gt;
-It learns from the lines that have broken abruptly,&lt;br /&gt;
-to keep them short; keep them mine.&lt;br /&gt;
-And i want to keep them from you,&lt;br /&gt;
-because many have been lost on it’s double-edged sword.&lt;br /&gt;
-I want to learn your exotic words and how they rhyme,&lt;br /&gt;
-But they tell me that they won’t go,&lt;br /&gt;
-that there’s the entire alphabet in between two ones that match,&lt;br /&gt;
-They tell me that you’re a traveller,&lt;br /&gt;
-You read, you take.&lt;br /&gt;
-You’ll move on to the next poem,&lt;br /&gt;
-one that doesn’t seem so hard.&lt;br /&gt;
-It’ll rhyme better, it’ll be simpler.&lt;br /&gt;
-I can’t do simple. The words will weave and merge,&lt;br /&gt;
-and at times conflict. But I’ll still own them all.&lt;br /&gt;
-I’ll wear them, I’ll wear yours.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/neha/posts/2016/09/24/poetry-in-a-dress/</link>
-        <guid isPermaLink="true">http://localhost:4000/neha/posts/2016/09/24/poetry-in-a-dress/</guid>
+        <link>http://localhost:4000/posts/2016/09/26/postcards/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/09/26/postcards/</guid>
         
         <category>design</category>
         

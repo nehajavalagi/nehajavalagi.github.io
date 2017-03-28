@@ -5,7 +5,7 @@ layout: project
 date: 2017-03-23
 img: happiness.jpg
 thumbnail: happiness.jpg
-permalink: projects/russian-school
+permalink: projects/ux-atlas
 ---
 ### Mood Board
 <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="200" href="https://www.pinterest.com/nehajavalagi/russian-school-project-ui-inspiration/"></a>
