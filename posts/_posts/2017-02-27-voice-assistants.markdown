@@ -1,6 +1,6 @@
 ---
-title: Voice assistants
-subtitle: Giving women a voice in the tech industry
+title: Why are all voice assistants female ?
+subtitle: "Because women have a voice in the tech industry, and men assist us to do so"
 layout: post
 date: 2017-02-27
 img: voice.png

@@ -1,6 +1,6 @@
 ---
 title: Who's Network-king?
-subtitle: Personification to communicate technical concepts in a light hearted fashion
+subtitle: Personification as a tool to communicate technical concepts 
 layout: post
 date: 2016-01-02
 img: networking.jpg

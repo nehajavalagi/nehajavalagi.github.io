@@ -1,10 +1,9 @@
 ---
-title: A content strategy for users
-subtitle: S(e)O, you think you can write for the web?
-layout: post
+title: Think you can write for the web?
+subtitle: "10 lessons in content strategy. #8 will blow you away."
 date: 2017-03-28
-img: contentstrategy.jpg
-thumbnail: contentstrategy.jpg
+img: seoblog.jpg
+thumbnail: seoblog.jpg
 description: SEO, you think you can write for the web ?
 tags: design
 ---

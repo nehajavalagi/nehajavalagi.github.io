@@ -1,6 +1,6 @@
 ---
 title: Poetry in a dress
-subtitle: The story behind my logo of a dress of poetry
+subtitle: "How I designed a logo for myself: Understanding a brand"
 layout: post
 date: 2016-09-24
 img: oldtypewriter.jpg
@@ -8,6 +8,7 @@ thumbnail: oldtypewriter.jpg
 description: 
 tags: design
 ---
+
 *(Word cloud generated using python nltk and Word Cloud library. Words have been taken from all my online published content)*
 
 I am poetry in a dress.  

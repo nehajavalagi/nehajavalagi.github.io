@@ -1,6 +1,6 @@
 ---
 title: The best data structure
-subtitle: Which is the best data structure of them all?
+subtitle: Which is the best data structure of them all? A debate in poetry
 layout: post
 date: 2015-09-13
 img: datastructure.png

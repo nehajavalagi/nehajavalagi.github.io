@@ -1,6 +1,6 @@
 ---
 title: Software artist
-subtitle: My mission statement to combine art with software
+subtitle: My mission statement to combine art and technology for better development
 layout: post
 date: 2017-03-22
 img: softartist.jpg

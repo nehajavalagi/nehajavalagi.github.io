@@ -1,6 +1,6 @@
 ---
 title: My Austintatious journey
-subtitle: The story of how a girl warmed up to Austin
+subtitle: "Story of a girl who warmed upto Austin in the hot Texas sun" 
 layout: post
 date: 2016-10-02
 img: austin.jpg
