@@ -214,12 +214,12 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 400;
-    letter-spacing: 1px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
     color: #fff;
-    -webkit-transition: all ease .35s;
-    -moz-transition: all ease .35s;
-    transition: all ease .35s;
+    -webkit-transition: all ease-in .35s ;
+    -moz-transition: all ease-in .35s ;
+    transition: all ease-in .35s ;
 }
 
 .navbar-default .nav li a:hover,
@@ -274,9 +274,16 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: center center;
+    background-attachment: local;
+    background:url('{{ site.baseurl }}/img/panaroma.jpg') no-repeat;
+   
+    background width: 10800px 
+   background height: 2332px
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: absolute;
+overflow-y:scroll;
+overflow-x: hidden;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -328,6 +335,13 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+
+
+    header .inner-scroll {
+    width: 1000px; /* width of content area */
+    height: 600px; /* height of content area */
+    overflow-x: scroll;
+}
 }
 
 section {
@@ -916,3 +930,71 @@ body {
 	line-height: 2.5;
 	font-size: 16px;
 }
+
+
+#panspace,
+#panspace ul li p {
+  background-image: url(panorama.jpg);
+}
+#panspace {
+  border: 1px solid #FFF;
+  height: 260px;
+  width: 320px;
+}
+#panspace ul {
+  height: 20px;
+  list-style-type: none;
+  margin-top: 240px;
+  padding: 0;
+  width: 320px;
+}
+#panspace ul li {
+  background-color: #CCC;
+  color: #666;
+  display: block;
+  float: left;
+  height: 20px;
+  position: relative;
+  width: 10px;
+}
+#panspace ul li p {
+  background-position: 0 0;
+  display: none;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: -240px;
+  width: 320px;
+  text-align: center;
+}
+#panspace ul li:hover p {
+  display: block;
+}
+
+#panspace ul li:hover p#p1 {
+  background-position: 0 0;
+  left: 0;
+}
+#panspace ul li:hover p#p2 {
+  background-position: -30px 0;
+  left: -10px;
+}
+#panspace ul li:hover p#p3 {
+  background-position: -61px 0;
+  left: -20px;
+}
+
+#panspace ul li:hover p#p32 {
+  background-position: -960px 0;
+  left: -310px;
+}
+
+div id="panspace">
+  <ul>
+    <li><p id="p1">0°</p></li>
+    <li><p id="p2">5°</p></li>
+    <li><p id="p3">11°</p></li>
+
+    <li><p id="p32">180°</p></li>
+  </ul>
+</div>
