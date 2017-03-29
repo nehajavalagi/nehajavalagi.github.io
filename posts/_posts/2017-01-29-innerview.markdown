@@ -1,6 +1,6 @@
 ---
 title: An innerview
-subtitle: Cracking the software engineering interview: A guide to the process
+subtitle: "Cracking the software engineering interview: A guide to the process"
 layout: post
 date: 2017-01-29
 img: innerview.jpg

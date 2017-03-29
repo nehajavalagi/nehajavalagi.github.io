@@ -5,52 +5,9 @@
     <description>Portfolio of an aspiring User Experience researcher</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Mar 2017 01:03:15 -0500</pubDate>
-    <lastBuildDate>Wed, 29 Mar 2017 01:03:15 -0500</lastBuildDate>
+    <pubDate>Wed, 29 Mar 2017 01:05:56 -0500</pubDate>
+    <lastBuildDate>Wed, 29 Mar 2017 01:05:56 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;My life on paper, white lies in black,&lt;br /&gt;
-Pulling requests, glass doors pushed back.&lt;br /&gt;
-I’m suited best, branded personality bought&lt;br /&gt;
-My inner voice a language skill not sought.&lt;br /&gt;
-Bold marked words for all you’ve wished,&lt;br /&gt;
-I’m 21 years on a project unfinished.&lt;br /&gt;
-A treevial question from your paper stack,&lt;br /&gt;
-My book tells me when not to crack.&lt;br /&gt;
-For an unsolved problem, a daily wage,&lt;br /&gt;
-A space to fill in a brilliant package.&lt;br /&gt;
-My fingers dance, as you set the pace.&lt;br /&gt;
-A rolling mouse, for rats to race.&lt;br /&gt;
-My train of thought, now blowing steam.&lt;br /&gt;
-Am I hours late to my California dream?&lt;br /&gt;
-The penitent pass, complexity’s low,&lt;br /&gt;
-I get called upon for more to know.&lt;br /&gt;
-Inner voice drowned by crowdsourced noise,&lt;br /&gt;
-I clear my throat, my best phoney voice.&lt;br /&gt;
-I know I am bound by what you pledge,&lt;br /&gt;
-I’m starting to bleed on your cutting edge.&lt;br /&gt;
-I for one, to grow with your pace,&lt;br /&gt;
-Should I let you in to disrupt my space?&lt;br /&gt;
-I’m all buzzwords, conversation forlorn.&lt;br /&gt;
-Should I have to pay for being a unicorn?&lt;br /&gt;
-A seat on a bench, dreams keep wait,&lt;br /&gt;
-As I go back on my words, same template.&lt;br /&gt;
-I ask you twice if it’s the same you mean,&lt;br /&gt;
-Do you see my reflection in our shared screen?&lt;br /&gt;
-An assigned team, my skills comply.&lt;br /&gt;
-You still ask me where my weaknesses lie.&lt;br /&gt;
-And in all those connections I wish to share, 
-I ask for a base I’d like to compare.&lt;br /&gt;
-You’re open to questions, and I know I’ve fired&lt;br /&gt;
-“Is this where my dreams get hired?“&lt;/p&gt;
-</description>
-        <pubDate>Wed, 29 Mar 2017 01:03:15 -0500</pubDate>
-        <link>http://localhost:4000/posts/2017/03/29/2017-01-29-innerview/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/2017/03/29/2017-01-29-innerview/</guid>
-        
-      </item>
     
       <item>
         <title>Think you can write for the web?</title>
@@ -385,6 +342,51 @@ There’s no fading with this backed up light.&lt;/p&gt;
         <pubDate>Sat, 11 Feb 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/posts/2017/02/11/keyboard/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2017/02/11/keyboard/</guid>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>An innerview</title>
+        <description>&lt;p&gt;My life on paper, white lies in black,&lt;br /&gt;
+Pulling requests, glass doors pushed back.&lt;br /&gt;
+I’m suited best, branded personality bought&lt;br /&gt;
+My inner voice a language skill not sought.&lt;br /&gt;
+Bold marked words for all you’ve wished,&lt;br /&gt;
+I’m 21 years on a project unfinished.&lt;br /&gt;
+A treevial question from your paper stack,&lt;br /&gt;
+My book tells me when not to crack.&lt;br /&gt;
+For an unsolved problem, a daily wage,&lt;br /&gt;
+A space to fill in a brilliant package.&lt;br /&gt;
+My fingers dance, as you set the pace.&lt;br /&gt;
+A rolling mouse, for rats to race.&lt;br /&gt;
+My train of thought, now blowing steam.&lt;br /&gt;
+Am I hours late to my California dream?&lt;br /&gt;
+The penitent pass, complexity’s low,&lt;br /&gt;
+I get called upon for more to know.&lt;br /&gt;
+Inner voice drowned by crowdsourced noise,&lt;br /&gt;
+I clear my throat, my best phoney voice.&lt;br /&gt;
+I know I am bound by what you pledge,&lt;br /&gt;
+I’m starting to bleed on your cutting edge.&lt;br /&gt;
+I for one, to grow with your pace,&lt;br /&gt;
+Should I let you in to disrupt my space?&lt;br /&gt;
+I’m all buzzwords, conversation forlorn.&lt;br /&gt;
+Should I have to pay for being a unicorn?&lt;br /&gt;
+A seat on a bench, dreams keep wait,&lt;br /&gt;
+As I go back on my words, same template.&lt;br /&gt;
+I ask you twice if it’s the same you mean,&lt;br /&gt;
+Do you see my reflection in our shared screen?&lt;br /&gt;
+An assigned team, my skills comply.&lt;br /&gt;
+You still ask me where my weaknesses lie.&lt;br /&gt;
+And in all those connections I wish to share, 
+I ask for a base I’d like to compare.&lt;br /&gt;
+You’re open to questions, and I know I’ve fired&lt;br /&gt;
+“Is this where my dreams get hired?“&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Jan 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/posts/2017/01/29/innerview/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2017/01/29/innerview/</guid>
         
         <category>design</category>
         
