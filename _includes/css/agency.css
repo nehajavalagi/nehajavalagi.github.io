@@ -277,9 +277,10 @@ header {
     background-attachment: local;
     background:url('{{ site.baseurl }}/img/header-bg.jpg') no-repeat;
    
-    
+    background-size: fill ;
     background-repeat:no-repeat;
-    background-size: cover;
+    background-size:contain;
+
     background-position: absolute;
 
     background-repeat: none;
