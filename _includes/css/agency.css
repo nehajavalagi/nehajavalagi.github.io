@@ -275,15 +275,13 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: local;
-    background:url('{{ site.baseurl }}/img/panaroma.jpg') no-repeat;
+    background:url('{{ site.baseurl }}/img/header-bg.jpg') no-repeat;
    
-    background width: 10800px 
-   background height: 2332px
+    
     background-repeat:no-repeat;
     background-size: cover;
     background-position: absolute;
-overflow-y:scroll;
-overflow-x: hidden;
+
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -337,11 +335,7 @@ header .intro-text .intro-heading {
     }
 
 
-    header .inner-scroll {
-    width: 1000px; /* width of content area */
-    height: 600px; /* height of content area */
-    overflow-x: scroll;
-}
+    
 }
 
 section {
@@ -923,7 +917,7 @@ body {
     background-color: #{{ site.data.template.color.header }};
     /*background-color: #CF423C;*/
     font-weight: normal;
-    border-radius: 0.2em;
+    border-radius: 0em;
 }
 
 .wide-spaced{
