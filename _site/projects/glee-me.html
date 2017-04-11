@@ -74,35 +74,23 @@
     </nav>
 
 
-	<div class="container">
+	<div class="container small-container">
 		<div class="row">
 			<div class= "col-sm-6">
-
 				<h2>Glee.me</h2>
 				<hr class="star-primary">
-				
-							<p></p>
-				</font>
-			
-						
-
-
-
-
-				</div>
-				<div class= "col-sm-6">
-					<img src= "/img/projects/happiness.jpg" class="img-responsive img-centered" >
-					</div>
-				</div>
-				
+				<p></p>
 			</div>
+			<div class= "col-sm-6">
+				<img src= "/img/projects/happiness.jpg" class="img-responsive img-centered" >
+			</div>
+		</div>
+			
+		<hr class="star-primary">
 
-			<hr class="star-primary">
-
-			<div class="container">
 		<div class="row" >
 			<p></p>
-					<p><h3 id="purpose">Purpose</h3>
+			<p><h3 id="purpose">Purpose</h3>
 
 <h4 id="my-happiness-is-not-a-number-and-it-is-not-binary">My happiness is not a number and it is not binary</h4>
 
@@ -152,11 +140,8 @@
   <li>Creating prototypes for smartphone application glee.me</li>
 </ul>
 </p>
-
-					
-				</div>
-		
-	
+		</div>
+	</div>
 	<footer class="bg-light-gray">
     <div class="container">
         <div class="row">
@@ -204,5 +189,18 @@
 
 <!-- Pinterest js -->
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    var slider = $("#lightSlider").lightSlider();
+    slider.goToSlide(3);
+    slider.goToPrevSlide();
+    slider.goToNextSlide();
+    slider.getCurrentSlideCount();
+    slider.refresh();
+    slider.play(); 
+    slider.pause();    
+  });
+</script>
     </body>
 </html>

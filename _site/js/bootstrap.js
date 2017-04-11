@@ -271,8 +271,14 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: carousel.js v3.2.0
- * http://getbootstrap.com/javascript/#carousel
+ * Bootstrap: 
+
+
+ .js v3.2.0
+ * http://getbootstrap.com/javascript/#
+
+
+
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -282,12 +288,24 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 +function ($) {
   'use strict';
 
-  // CAROUSEL CLASS DEFINITION
+  // 
+
+
+   CLASS DEFINITION
   // =========================
 
-  var Carousel = function (element, options) {
-    this.$element    = $(element).on('keydown.bs.carousel', $.proxy(this.keydown, this))
-    this.$indicators = this.$element.find('.carousel-indicators')
+  var 
+
+
+   = function (element, options) {
+    this.$element    = $(element).on('keydown.bs.
+
+
+      ', $.proxy(this.keydown, this))
+    this.$indicators = this.$element.find('.
+
+
+      -indicators')
     this.options     = options
     this.paused      =
     this.sliding     =
@@ -296,19 +314,34 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
     this.$items      = null
 
     this.options.pause == 'hover' && this.$element
-      .on('mouseenter.bs.carousel', $.proxy(this.pause, this))
-      .on('mouseleave.bs.carousel', $.proxy(this.cycle, this))
+      .on('mouseenter.bs.
+
+
+        ', $.proxy(this.pause, this))
+      .on('mouseleave.bs.
+
+
+        ', $.proxy(this.cycle, this))
   }
 
-  Carousel.VERSION  = '3.2.0'
+  
 
-  Carousel.DEFAULTS = {
+
+  .VERSION  = '3.2.0'
+
+  
+
+
+  .DEFAULTS = {
     interval: 5000,
     pause: 'hover',
     wrap: true
   }
 
-  Carousel.prototype.keydown = function (e) {
+  
+
+
+  .prototype.keydown = function (e) {
     switch (e.which) {
       case 37: this.prev(); break
       case 39: this.next(); break
@@ -318,7 +351,10 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
     e.preventDefault()
   }
 
-  Carousel.prototype.cycle = function (e) {
+  
+
+
+  .prototype.cycle = function (e) {
     e || (this.paused = false)
 
     this.interval && clearInterval(this.interval)
@@ -330,24 +366,36 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
     return this
   }
 
-  Carousel.prototype.getItemIndex = function (item) {
+  
+
+
+  .prototype.getItemIndex = function (item) {
     this.$items = item.parent().children('.item')
     return this.$items.index(item || this.$active)
   }
 
-  Carousel.prototype.to = function (pos) {
+  
+
+
+  .prototype.to = function (pos) {
     var that        = this
     var activeIndex = this.getItemIndex(this.$active = this.$element.find('.item.active'))
 
     if (pos > (this.$items.length - 1) || pos < 0) return
 
-    if (this.sliding)       return this.$element.one('slid.bs.carousel', function () { that.to(pos) }) // yes, "slid"
+    if (this.sliding)       return this.$element.one('slid.bs.
+
+
+      ', function () { that.to(pos) }) // yes, "slid"
     if (activeIndex == pos) return this.pause().cycle()
 
     return this.slide(pos > activeIndex ? 'next' : 'prev', $(this.$items[pos]))
   }
 
-  Carousel.prototype.pause = function (e) {
+  
+
+
+  .prototype.pause = function (e) {
     e || (this.paused = true)
 
     if (this.$element.find('.next, .prev').length && $.support.transition) {
@@ -360,17 +408,26 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
     return this
   }
 
-  Carousel.prototype.next = function () {
+  
+
+
+  .prototype.next = function () {
     if (this.sliding) return
     return this.slide('next')
   }
 
-  Carousel.prototype.prev = function () {
+  
+
+
+  .prototype.prev = function () {
     if (this.sliding) return
     return this.slide('prev')
   }
 
-  Carousel.prototype.slide = function (type, next) {
+  
+
+
+  .prototype.slide = function (type, next) {
     var $active   = this.$element.find('.item.active')
     var $next     = next || $active[type]()
     var isCycling = this.interval
@@ -383,10 +440,14 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
       $next = this.$element.find('.item')[fallback]()
     }
 
-    if ($next.hasClass('active')) return (this.sliding = false)
+    if ($next.hasClass('active')) return (this.sliding = false
+    )
 
     var relatedTarget = $next[0]
-    var slideEvent = $.Event('slide.bs.carousel', {
+    var slideEvent = $.Event('slide.bs.
+
+
+      ', {
       relatedTarget: relatedTarget,
       direction: direction
     })
@@ -403,7 +464,10 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
       $nextIndicator && $nextIndicator.addClass('active')
     }
 
-    var slidEvent = $.Event('slid.bs.carousel', { relatedTarget: relatedTarget, direction: direction }) // yes, "slid"
+    var slidEvent = $.Event('slid.bs.
+
+
+      ', { relatedTarget: relatedTarget, direction: direction }) // yes, "slid"
     if ($.support.transition && this.$element.hasClass('slide')) {
       $next.addClass(type)
       $next[0].offsetWidth // force reflow
@@ -432,46 +496,91 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
   }
 
 
-  // CAROUSEL PLUGIN DEFINITION
+  // 
+
+
+   PLUGIN DEFINITION
   // ==========================
 
   function Plugin(option) {
     return this.each(function () {
       var $this   = $(this)
-      var data    = $this.data('bs.carousel')
-      var options = $.extend({}, Carousel.DEFAULTS, $this.data(), typeof option == 'object' && option)
+      var data    = $this.data('bs.
+
+
+        ')
+      var options = $.extend({}, 
+
+
+        .DEFAULTS, $this.data(), typeof option == 'object' && option)
       var action  = typeof option == 'string' ? option : options.slide
 
-      if (!data) $this.data('bs.carousel', (data = new Carousel(this, options)))
+      if (!data) $this.data('bs.
+
+
+        ', (data = new 
+
+
+        (this, options)))
       if (typeof option == 'number') data.to(option)
       else if (action) data[action]()
       else if (options.interval) data.pause().cycle()
     })
   }
 
-  var old = $.fn.carousel
-
-  $.fn.carousel             = Plugin
-  $.fn.carousel.Constructor = Carousel
+  var old = $.fn.
 
 
-  // CAROUSEL NO CONFLICT
+
+
+  $.fn.
+
+
+               = Plugin
+  $.fn.
+
+
+  .Constructor = 
+
+
+
+
+
+  // 
+
+
+   NO CONFLICT
   // ====================
 
-  $.fn.carousel.noConflict = function () {
-    $.fn.carousel = old
+  $.fn.
+
+
+  .noConflict = function () {
+    $.fn.
+
+
+     = old
     return this
   }
 
 
-  // CAROUSEL DATA-API
+  // 
+
+
+   DATA-API
   // =================
 
-  $(document).on('click.bs.carousel.data-api', '[data-slide], [data-slide-to]', function (e) {
+  $(document).on('click.bs.
+
+
+    .data-api', '[data-slide], [data-slide-to]', function (e) {
     var href
     var $this   = $(this)
     var $target = $($this.attr('data-target') || (href = $this.attr('href')) && href.replace(/.*(?=#[^\s]+$)/, '')) // strip for ie7
-    if (!$target.hasClass('carousel')) return
+    if (!$target.hasClass('
+
+
+      ')) return
     var options = $.extend({}, $target.data(), $this.data())
     var slideIndex = $this.attr('data-slide-to')
     if (slideIndex) options.interval = false
@@ -479,16 +588,31 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
     Plugin.call($target, options)
 
     if (slideIndex) {
-      $target.data('bs.carousel').to(slideIndex)
+      $target.data('bs.
+
+
+        ').to(slideIndex)
     }
 
     e.preventDefault()
   })
 
   $(window).on('load', function () {
-    $('[data-ride="carousel"]').each(function () {
-      var $carousel = $(this)
-      Plugin.call($carousel, $carousel.data())
+    $('[data-ride="
+
+
+      "]').each(function () {
+      var $
+
+
+       = $(this)
+      Plugin.call($
+
+
+        , $
+
+
+        .data())
     })
   })
 

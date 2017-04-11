@@ -36,3 +36,14 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$("[rel='tooltip']").tooltip();    
+
+$('.thumbnail').hover(
+    function(){
+        $(this).find('.hover-caption').fadeIn(200);
+    },
+    function(){
+        $(this).find('.hover-caption').fadeOut(200); //.fadeOut(205)
+    }
+); 

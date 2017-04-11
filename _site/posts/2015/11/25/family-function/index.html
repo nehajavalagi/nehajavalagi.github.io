@@ -166,5 +166,18 @@ Once home, their own <strong>IDE</strong> calls for their attention.</p>
 
 <!-- Pinterest js -->
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    var slider = $("#lightSlider").lightSlider();
+    slider.goToSlide(3);
+    slider.goToPrevSlide();
+    slider.goToNextSlide();
+    slider.getCurrentSlideCount();
+    slider.refresh();
+    slider.play(); 
+    slider.pause();    
+  });
+</script>
     </body>
 </html>

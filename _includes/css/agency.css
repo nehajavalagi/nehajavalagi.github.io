@@ -244,7 +244,8 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: black;
+        opacity: 0.8;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -263,6 +264,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
+        opacity: 1;
         background-color: #{{ site.data.template.color.header }};
     }
 
@@ -928,20 +930,23 @@ body {
 }
 
 figure {
-     position: relative;
-
+    position: relative;
 }
+
 figure img {
     width: 100%;
-    height: 100%;
+    height: auto;
+    display: block;
 }
+
 figcaption {
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(0, 0, 0, 0.50);
     color: #FFF;
     position: absolute;
     bottom: 0;
     left: 0;
-    padding: 10px;
+    padding-left: 4px;
+    padding-top: 2px;
     right: 0;
 }
 
@@ -1002,12 +1007,32 @@ figcaption {
   left: -310px;
 }
 
-div id="panspace">
-  <ul>
-    <li><p id="p1">0°</p></li>
-    <li><p id="p2">5°</p></li>
-    <li><p id="p3">11°</p></li>
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
 
-    <li><p id="p32">180°</p></li>
-  </ul>
-</div>
+.thumbnail img {
+    width: 100%;
+}
+
+.small-container {
+    width: 970px;
+}
+
+.hover-caption {
+    position:absolute;
+    /*top:0;*/
+    /*right:0;*/
+    background-color: #{{ site.data.template.color.secondary-light }};
+    opacity: 0.8;
+    width:100%;
+    height:100%;
+    padding:2%;
+    display: none;
+    text-align: center;
+    color:#fff !important;
+    z-index:2;
+}
