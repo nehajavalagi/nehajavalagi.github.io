@@ -13,11 +13,11 @@
         <h3>SiteMap</h3>
         A visual representation of the site's organization and linking
       </div>
-       <img src="{{ site.baseurl }}/img/projects/sitemap-russian.png" alt="" class = "d-block img-fluid" >
+       <img src="{{ site.baseurl }}/img/projects/survey_1.png" alt="" class = "d-block img-fluid" >
       
     </div>
     <div class="item carousel-image">
-       <img src="{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" >
+       <img src="{{ site.baseurl }}/img/projects/survey_2.png" alt="" class = "d-block img-fluid" >
     	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
       	<div class="carousel-caption">
         	<h3>Current student's journey map</h3>
@@ -25,7 +25,7 @@
       	</div>
     </div>
     <div class="item carousel-image">
-       <img src="{{ site.baseurl }}/img/projects/ProspectiveStud (1).jpg" alt="" class = "d-block img-fluid" >
+       <img src="{{ site.baseurl }}/img/projects/survey_3.png" alt="" class = "d-block img-fluid" >
     	<!-- <img src= "{{ site.baseurl }}/img/projects/ProspectiveStud (1).jpg"  alt="" class = "d-block img-fluid"  style="height:700px;width:100%;" > -->
         <div class="carousel-caption">
         	<h3>Prospective student's journey map</h3>

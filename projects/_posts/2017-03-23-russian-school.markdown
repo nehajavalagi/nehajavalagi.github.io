@@ -85,6 +85,49 @@ In-person interviews of the Director and the board members led to more significa
 </div>
 
 - - -
+##### In-person interviews and survey result analysis
+
+
+###### Current platforms used for dissipating information:
+* Email for sending announcements
+* Closed Facebook group for enquiries and updates
+
+>“I think it's perfect to have it as a Facebook group, since most people check Facebook several times a day anyway, they get the announcements in timely manner."
+
+*Design opportunity identified*: Joined the Facebook group to research how information is communicated in the group. Even though the board members wanted to move to a website and close the Facebook group, insights from the survey show that they should continue using the social media platform. UI design metaphors can be used to smooth the transition to the website. 
+
+###### Identified the pain points of current platform used:
+* Students are enrolled in incorrect level of classes due to confusion in scheduling classes
+* School information is not easily accessible
+* Lack of website makes the school seem ‘unprofessional’ and ‘unauthoritative’
+
+>“ Given the features of FB, schedules and school open days are not at the top of the posts. I have to dig for class  info. There is no info on teacher's bios, school policies on refunds, etc. Potentially, a place for student corner can be on the site. It would have to be in Russian. Even homework can be uploaded instead of distributed by email. “
+
+>“Its bad!! I'd quit FB all together, but forced to stay on it cause of things like Russ School, etc. it is not a platorm for communication, nor events “
+
+*Design opportunity identified*: As the school administrator is a volunteer who is not skilled in web development, the website must be easy to use and update. Website should prominently display a schedule of classes offered and instructor bios, events details and contact details based on survey results.
+
+
+###### Identifying the three main priorities of the website:
+* Make the school ‘findable’ and its information ‘searchable’
+* Ease the chaos of scheduling classes currently done manually
+* Communicate privately with the community
+
+>"On my son's primary school website, I primarily look for course schedules, homework and keep a tab on my son's homework and grades"
+
+*Design opportunity identified*: School’s contact information must be easy to access and the schedule of classes must be easy and intuitive to understand and interpret. There should be a forum for showcasing past events and a calendar for future events to bring the Russian community together. This helped design a plan for lean UX.
+
+
+###### Language of the website
+58.06% of the participants said that they would like to view the school website in either Russian and English with the ability to switch between the two. 3.23% participants said that they wanted to view the website in English only.
+
+>"I am okay with the default language being Russian. But my husband is American and he would like to know about Russian school more“
+
+>“Having the website in English is not good for the target audience; It Doesn't maintain the status of Russia. It is a Russian school therefore they need to use Russian language" 
+
+*Design opportunity identified*: The default languauge of the website will be Russian with an option to change it to English. Option should be made visible on the homepage. As the school welcomes students who do not belong to Russian families, it is imperative that the website be accessible to all. 			
+
+- - -
 #### Persona Creation
 Based on the information gleaned from the contextual enquiry, interviews and survey results, two most common personas were identified. 
 <div class="row">
@@ -135,7 +178,7 @@ Competitive analysis was conducted on educational websites to identify strengths
 	</div>
 	<div class="col-md-5">
 		<figure>
-			<img   src="{{ site.baseurl }}/img/projects/russianschoollogos.png" class="img-responsive img-centered" alt="">
+			<img   src="{{ site.baseurl }}/img/projects/russianschoollogos.png" class="img-responsive img-centered" alt="" style="height:345px;width=auto;">
 			<figcaption>Competitive evaluation of other schools websites</figcaption>
 		</figure>
 	</div>
@@ -251,7 +294,110 @@ Sitemap and user journey maps were created to visualise how users will navigate 
     </div>
 </div>
 
+#### Creating Lo-Fi Mockups in Sketch
 
+
+<div class="thumbnail">
+		<a href="#lowfi" data-toggle="modal">
+			<div class="hover-caption">
+				<h6>Click to view large size</h6>
+            </div>
+            <img src="{{ site.baseurl }}/img/projects/lowfimockups.png" class="img-responsive img-centered" alt="" >
+          </a>
+           
+          </div>
+
+<div class="portfolio-modal modal fade" id="lowfi" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content" style="padding-top: 20px">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+
+<h4>Lo-Fi Mockups designed using Sketch</h4>
+<br>
+<br>
+
+        <div class="container" align="center">
+        	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+
+
+  </ol>
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active carousel-image">
+      
+       <img src="{{ site.baseurl }}/img/projects/homepage.png" alt="" class = "d-block img-fluid" >
+      
+    </div>
+    <div class="item carousel-image">
+       <img src="{{ site.baseurl }}/img/projects/AboutUs_OurMission.png" alt="" class = "d-block img-fluid" >
+    	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
+      	
+    </div>
+    <div class="item carousel-image">
+       <img src="{{ site.baseurl }}/img/projects/AboutUs_OurTeam.png" alt="" class = "d-block img-fluid" >
+    	<!-- <img src= "{{ site.baseurl }}/img/projects/ProspectiveStud (1).jpg"  alt="" class = "d-block img-fluid"  style="height:700px;width:100%;" > -->
+       
+   </div>
+    <div class="item carousel-image">
+       <img src="{{ site.baseurl }}/img/projects/ContactUs.png" alt="" class = "d-block img-fluid" >
+    	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
+      	
+    </div>
+
+     <div class="item carousel-image">
+       <img src="{{ site.baseurl }}/img/projects/Coursesnew.png" alt="" class = "d-block img-fluid" >
+    	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
+      	
+    </div>
+
+     <div class="item carousel-image">
+       <img src="{{ site.baseurl }}/img/projects/Courses_KnowMore.png" alt="" class = "d-block img-fluid" >
+    	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
+      	
+    </div>
+
+     <div class="item carousel-image">
+       <img src="{{ site.baseurl }}/img/projects/Eventsnew.png" alt="" class = "d-block img-fluid" >
+    	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
+      	
+    </div>
+
+     <div class="item carousel-image">
+       <img src="{{ site.baseurl }}/img/projects/Student_login_new.png" alt="" class = "d-block img-fluid" >
+    	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
+      	
+    </div>
+
+
+  </div>
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<br>
+    		
+		</div>
+    </div>
 
   
 
