@@ -3,6 +3,7 @@ title: Russian school of Austin
 subtitle: Creating a web of connections
 layout: project
 date: 2017-03-23
+head: image
 img: happiness.jpg
 thumbnail: happiness.jpg
 permalink: projects/russian-school
@@ -321,7 +322,7 @@ Sitemap and user journey maps were created to visualise how users will navigate 
 <br>
 
         <div class="container" align="center">
-        	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" >
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>

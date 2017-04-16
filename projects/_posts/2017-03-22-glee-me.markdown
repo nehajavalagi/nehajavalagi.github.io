@@ -3,6 +3,7 @@ title: Glee.me
 subtitle: Putting an APP in hAPPiness
 layout: project
 date: 2017-03-01
+head: image
 img: happiness.jpg
 thumbnail: happiness.jpg
 permalink: projects/glee-me

@@ -11,7 +11,9 @@
 				<p>{{ page.summary}}</p>
 			</div>
 			<div class= "col-sm-6">
-				<img src= "{{ site.baseurl }}/img/projects/{{page.img}}" class="img-responsive img-centered" >
+			{% if page.head == 'image' %} <img src= "{{ site.baseurl }}/img/projects/{{page.img}}" class="img-responsive img-centered">
+			{% elsif page.head == 'vimeo' %} <iframe src="{{ page.vimeo }}?byline=0&portrait=0" width="498" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+			{% endif %}				
 			</div>
 		</div>
 			
