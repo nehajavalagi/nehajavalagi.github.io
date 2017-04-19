@@ -361,8 +361,13 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 50px 0;
+        padding: 100px 0;
     }
+}
+
+.blog-item {
+    .portfolio-item;
+    height: 260px !important;
 }
 
 .service-heading {
@@ -375,7 +380,7 @@ section h3.section-subheading {
     right: 0;
     margin: 0 0 15px;
     width: 390px;
-    height: 480px;
+    height: 400px;
 }
 
 .portfolio-item .portfolio-link {

@@ -3,18 +3,16 @@
   {% include head.html %}
     <body id="page-top" style="padding-top: 120px;" class="index">
     {% include header.html %}
-	<div class="container" style="margin-bottom: 75px;">
+	<div class="container small-container" style="margin-bottom: 75px;">
 		<div class="row">
-			<div class="col-md-offset-2 col-md-10">
 				<h2>{{ page.title }}</h2>
 				<hr class="star-primary">
 				<div>
-					<img src="{{ site.baseurl }}/img/projects/{{ page.img }}" class="img-responsive img-centered">
+					<img src="{{ site.baseurl }}/img/posts/{{ page.img }}" class="img-responsive img-centered">
 					<p>{{ page.content }}</p>
 					<div class="tags">
 					<h5>Tags</h5>
 					{{ page.tags | array_to_sentence_string }}
-				</div>
 				</div>
 			</div>
 		</div>	

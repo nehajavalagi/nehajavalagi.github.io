@@ -1,6 +1,7 @@
 ---
 title: Think you can write for the web?
 subtitle: "10 lessons in content strategy. #8 will blow you away."
+layout: post
 date: 2017-03-28
 img: seoblog.jpg
 thumbnail: seoblog.jpg
