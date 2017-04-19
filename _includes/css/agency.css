@@ -67,7 +67,7 @@ h6 {
 }
 
 .bg-light-yellow {
-    background-color: #FAD863!important;
+    background-color: #{{ site.data.template.color.secondary-light }} !important;
 }
 
 .bg-darkest-gray {
