@@ -27,7 +27,6 @@ p.large {
     font-size: 18px;
 }
 
-
 a,
 a:hover,
 a:focus,
@@ -244,7 +243,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: black;
+        background-color: #{{ site.data.template.color.header }};
         opacity: 0.8;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
@@ -362,7 +361,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 100px 0;
+        padding: 50px 0;
     }
 }
 
@@ -371,11 +370,12 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+
 .portfolio-item {
     right: 0;
     margin: 0 0 15px;
     width: 390px;
-    height: 290px;
+    height: 480px;
 }
 
 .portfolio-item .portfolio-link {
@@ -925,7 +925,7 @@ body {
 }
 
 .wide-spaced{
-	line-height: 2.5;
+	line-height: 1.75;
 	font-size: 16px;
 }
 
@@ -1035,6 +1035,12 @@ figcaption {
     text-align: center;
     color:#fff !important;
     z-index:2;
+}
+
+.normal-dense{
+    line-height: 1.5;
+    font-size: 15px;
+
 }
 
 .hide-bullets {

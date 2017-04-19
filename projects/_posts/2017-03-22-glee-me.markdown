@@ -4,11 +4,46 @@ subtitle: Putting an APP in hAPPiness
 layout: project
 date: 2017-03-01
 head: image
-img: happiness.jpg
-thumbnail: happiness.jpg
+img: gleeme.png
+thumbnail: gleeme.png
 permalink: projects/glee-me
+summary: Designing a smartphone application for tracking happiness levels to understand the correlations between personal happiness and daily activities to empower users to make more happiness maximising decisions.
 ---
+<div class = "row">
+	<div class="col-sm-4" >
+		<h4>Type</h4>
+		<ul class="list-unstyled">
+			<li>Personal Project</li>
+		</ul>
 
+		<h4>My Role</h4>
+		<ul class="list-unstyled">
+			<li>User Researcher</li>
+			<li>Interaction Designer</li>
+			<li>Application Designer</li>
+		</ul>
+	</div>
+	<div class="col-sm-4">
+		<h4>Project Timeline</h4>
+		<ul class="list-unstyled">
+			<li>February 2017 - May 2017</li>
+		</ul>
+		<h4>Tools Used</h4>
+		<ul class="list-unstyled">
+			<li>Sketch</li>
+			<li>Illustrator</li>
+		</ul>
+	</div>
+	<div class="col-sm-4">
+		<h4>UX best practices</h4>
+		<ul class="list-unstyled">
+			<li>Heuristic Evaluation</li>
+			<li>Prototyping and Storyboarding</li>
+			<li>Wireframes and Mockups</li>
+		</ul>
+	</div>
+</div>
+- - - 
 ### Purpose
 
 #### My happiness is not a number and it is not binary
@@ -26,7 +61,7 @@ Based on my new found definition of happiness, I am defining my purpose in this 
 >Designing with a sense of purpose channeling creativity and passion to induce feelings of gratitude and compassion by self-reflection.
 
 Studying self-compassion and gratitude encouraged me to better understand connections, to recognise common humanity with people. I believe that this was an important milestone for me as a UX researcher.
-
+- - -
 ### Project Description
 
 Glee.me is a smartphone application that uses concepts of **experience sampling** and **day recollection method** (DRM) for subjective well-being assessment. Analysing well-being scores would involve trend analysis and visualisation to promote self reflection and behavioural change. This application will aim to define design principles for non-judgemental design in the space of mental health applications. Over the course of this project, I will maintain a happiness diary, take weekly subjective well-being tests, get certified on the course and create a design prototype for a smartphone application called Glee.me. In the end I hope to answer the following questions:
@@ -36,17 +71,22 @@ Glee.me is a smartphone application that uses concepts of **experience sampling*
 * Did this tool empower me in my search for happiness ?
 * Did I feel objectively judged/ depressed / insecure about the happiness scores I received ?
 
+- - - 
 ### Initial work
 
 Before I started designing the application, I decided to evaluate existing applications in the space of mood tracking and mental health. These included: Mood track, Track my Happiness, moodPanda etc and evaluated them on a general health application evaluation scale. Pain points and features were extracted.
 
-### Mood board
-
-<a data-pin-do="embedBoard" data-pin-board-width="800" data-pin-scale-height="450" data-pin-scale-width="80" href="https://www.pinterest.com/nehajavalagi/my-happiness-project-health-board/"></a>
-
+- - -
+#### Mood board
+<a data-pin-do="embedBoard" data-pin-board-width="800" data-pin-scale-height="300" data-pin-scale-width="150" href="https://www.pinterest.com/nehajavalagi/my-happiness-project-health-board/"></a>
+- - - 
 ### Current work
 
-* Earn a certified Coursera certificate on the following course: A Life of Happiness and Fulfilment: Dr Rajagopal Raghunathan
-* Maintaining a happiness diary tracking the journey of understanding the science behind happiness, taking more happiness maximising decisions to lead a fuller life and taking subjective well-being tests for objective comparison of happiness levels.
-* Testing of applications in the mental health space to study design patterns and how they relate to intuitive non-judgemental apps
-* Creating prototypes for smartphone application glee.me
+* Earn a verified Coursera certificate on the following course: *A Life of Happiness and Fulfillment: Dr Rajagopal Raghunathan*
+* *Maintaining a happiness diary* tracking the journey of understanding the science behind happiness, taking more happiness maximising decisions to lead a fuller life and taking subjective well-being tests for objective comparison of happiness levels.
+* *Testing of applications* in the mental health space to study design patterns and how they relate to intuitive non-judgemental apps
+* Creating *prototypes for smartphone application glee.me*
+
+<br>
+<center><h4>More updates soon!</h4></center>
+<br>

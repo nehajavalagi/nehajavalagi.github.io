@@ -31,7 +31,7 @@
                         <a class="page-scroll" href="{{site.baseurl}}/blog">Blog</a>
                     </li>
                      <li {% if page.layout == 'resume' %}class="active"{% endif %}>
-                        <a class="page-scroll"  a href="/pdfdocuments/NehaResume.pdf" target= "_blank">Resume</a>
+                        <a class="page-scroll"  a href="/pdfs/NehaResume.pdf" target= "_blank">Resume</a>
                     </li>
 
                 </ul>
@@ -43,15 +43,18 @@
 
 {% if page.layout == 'default' %}
 <!-- Header -->
-    <header>
+<section id="header" style="padding-top: 0">
+<div align="center" style="padding-top: 70px; background-image:url('{{ site.baseurl }}/img/header-bg.png')">
+    <img src="{{site.baseurl}}/img/header.png" height="600px" width="auto">
+    </div>
+    </section>
+    <!-- <header>
         <div class="container">
-            <div class="intro-text">
-                <!-- <div class="intro-lead-in">Welcome To Our Studio!</div>
+            <div class="intro-text" style="padding-top: 700px">
+                <div class="intro-lead-in">Welcome To Our Studio!</div>
                 <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a> -->
+                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
     </div>
-</div>
-        </div>
-    </header>
+    </header> -->
 {% endif %}

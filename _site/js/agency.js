@@ -48,10 +48,10 @@ $('.thumbnail').hover(
     }
 ); 
 
- $('#myCarousel').carousel({
-                interval: 5000
-        });
- 
+$('#myCarousel').carousel({
+        interval: 5000
+});
+
 $('#carousel-text').html($('#slide-content-0').html());
 
 //Handles the carousel thumbnails
