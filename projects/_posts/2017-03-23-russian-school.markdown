@@ -4,8 +4,8 @@ subtitle: Creating a web of connections
 layout: project
 date: 2017-03-23
 head: image
-img: austin_russian.png
-thumbnail: austin_russian.png
+img: russianeha.png
+thumbnail: russianeha.png
 permalink: projects/russian-school
 summary: Designing a website for a nonprofit organization called the Russian School of Austin following UX best practices.
 ---
