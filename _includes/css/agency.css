@@ -1053,3 +1053,7 @@ list-style:none;
 margin-left: -40px;
 margin-top:20px;
 }
+
+.smaller-size{
+    max-width: 70%
+}

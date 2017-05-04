@@ -8,6 +8,7 @@ img: pianofinal-01.png
 thumbnail: pianofinal-01.png
 permalink: projects/pianosheetmusic
 summary: To present a sheet music recognition system that can automatically recognize and perform the musical score with a simulated piano on iOS devices in the form of an application.
+logodesign: The crux of this project and it's major challenge lies in identifying and removing the staff lines on the piano sheet and then identifying the musical symbols. This logo captures the steps involved in the sheet music recognition system, with the photo capture of sheet music, identifying and removing lines and then finally recognising scores to play them.
 ---
 <div class = "row">
 	<div class="col-sm-4" >

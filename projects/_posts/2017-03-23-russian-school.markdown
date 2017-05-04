@@ -7,7 +7,8 @@ head: image
 img: russianeha.png
 thumbnail: russianeha.png
 permalink: projects/russian-school
-summary: Designing a website for a nonprofit organization called the Russian School of Austin following UX best practices.
+summary: Designing a website for a nonprofit organization called the Russian School of Austin following UX best practices. 
+logodesign: The logo is designed to denote one of the most famous landmarks of Russia, St Basil's Cathedral and bathe it in Texan colours. The idea is to have a minimalist representation of the monument, to denote paint brushes and pencils which are the magical tools given to children in a school. Further, this logo denotes how families migrated to other nations carry a part of Russia wherever they go.
 ---
 <div class = "row">
 	<div class="col-sm-4" >
@@ -318,25 +319,43 @@ Sitemap and user journey maps were created to visualise how users will navigate 
 </div>
 - - -
 <h3>Lo-Fi Mockups <small>Using Sketch</small></h3>
-<div class="thumbnail">
-	<a href="#lowfi" data-toggle="modal">
-		<div class="hover-caption">
-			<h6>Click to view large size</h6>
-        </div>
-        <img src="{{ site.baseurl }}/img/projects/lowfimockups.png" class="img-responsive img-centered" alt="" >
-      </a>
+<div class="row" style="padding-top: 10px">
+    <div class="col-md-8 col-md-offset-2">
+        <div class="thumbnail">
+            <a href="#lowfi" data-toggle="modal">
+                <div class="hover-caption">
+                    <h6>Click to view large size</h6>
+                </div>
+                <img src="{{ site.baseurl }}/img/projects/lowfimockups.png" class="img-responsive img-centered" alt="" >
+              </a>
+        </div>        
+    </div>
+</div>
+- - -
+<h3>Hi-Fi Mockups <small>Using Sketch</small></h3>
+<div class="row" style="padding-top: 10px">
+    <div class="col-md-8 col-md-offset-2">
+        <div class="thumbnail">
+            <a href="#hifi" data-toggle="modal">
+                <div class="hover-caption">
+                    <h6>Click to view all images</h6>
+                </div>
+                <img src="{{ site.baseurl }}/img/projects/russian_hifi.png" class="img-responsive img-centered" alt="" >
+              </a>
+        </div>        
+    </div>
 </div>
 <div class="portfolio-modal modal fade" id="lowfi" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content" style="padding-top: 20px">
+    <div class="modal-content" style="padding-top: 20px" >
         <div class="close-modal" data-dismiss="modal">
             <div class="lr">
                 <div class="rl">
+
                 </div>
             </div>
         </div>
-
-        <h3>Lo-Fi Mockups</h3>
-        <h4>designed using Sketch</h4>
+        <h3>Lo-Fi Mockups <small> designed using Sketch</small></h3>
+        <h4></h4>
         <br>
         <div class="container" align="center">
         	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" >
@@ -353,45 +372,44 @@ Sitemap and user journey maps were created to visualise how users will navigate 
              </ol>
           <!-- Wrapper for slides -->
           <div class="carousel-inner" role="listbox">
-            <div class="item active carousel-image">
+            <div class="item active carousel-image smaller-size">
               
                <img src="{{ site.baseurl }}/img/projects/homepage.png" alt="" class = "d-block img-fluid" >
               
             </div>
-            <div class="item carousel-image">
+            <div class="item carousel-image smaller-size">
                <img src="{{ site.baseurl }}/img/projects/AboutUs_OurMission.png" alt="" class = "d-block img-fluid" >
             	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
               	
             </div>
-            <div class="item carousel-image">
+            <div class="item carousel-image smaller-size">
                <img src="{{ site.baseurl }}/img/projects/AboutUs_OurTeam.png" alt="" class = "d-block img-fluid" >
             	<!-- <img src= "{{ site.baseurl }}/img/projects/ProspectiveStud (1).jpg"  alt="" class = "d-block img-fluid"  style="height:700px;width:100%;" > -->
                
            </div>
-            <div class="item carousel-image">
+            <div class="item carousel-image smaller-size">
                <img src="{{ site.baseurl }}/img/projects/ContactUs.png" alt="" class = "d-block img-fluid" >
             	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
               	
             </div>
 
-             <div class="item carousel-image">
+             <div class="item carousel-image smaller-size">
                <img src="{{ site.baseurl }}/img/projects/Coursesnew.png" alt="" class = "d-block img-fluid" >
             	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
               	
             </div>
 
-             <div class="item carousel-image">
+             <div class="item carousel-image smaller-size">
                <img src="{{ site.baseurl }}/img/projects/Courses_KnowMore.png" alt="" class = "d-block img-fluid" >
             	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
-              	
             </div>
 
-             <div class="item carousel-image">
+             <div class="item carousel-image smaller-size">
                <img src="{{ site.baseurl }}/img/projects/Eventsnew.png" alt="" class = "d-block img-fluid" >
             	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
             </div>
 
-             <div class="item carousel-image">
+             <div class="item carousel-image smaller-size">
                <img src="{{ site.baseurl }}/img/projects/Student_login_new.png" alt="" class = "d-block img-fluid" >
             	<!-- <img src= "{{ site.baseurl }}/img/projects/CurrentStudent_UserScenario.jpg" alt="" class = "d-block img-fluid" > -->
             </div>
@@ -408,7 +426,74 @@ Sitemap and user journey maps were created to visualise how users will navigate 
         </div>
         <br>
     </div>
+    </div>
 </div>
+<div class="portfolio-modal modal fade" id="hifi" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content" style="padding-top: 20px">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <h3>Hi-Fi Mockups <small> designed using Sketch</small></h3>
+        <btn id="cont"></btn>
+        <br>
+        <div class="container" align="center">
+        <div class="thumbnail">
+        <h5>Homepage</h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/HomePage.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>About Us - Our Team </h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/AboutUs_OurTeam_new.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>About Us - Our Mission <small> Without Hover</small></h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/AboutUs_OurMission_withouthover.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>About Us - Our Mission <small> On Hover</small></h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/AboutUs_OurMission_WithHover.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>Events</h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/Events.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>Events - Event details</h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/Events_Modal.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>Courses</h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/Courses.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>Courses - Adding</h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/Courses_beforeAdding.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>Courses - Added</h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/Courses_afterAdding.png" class="img-responsive img-centered" alt="" >
+        </div>
+        <div class="thumbnail">
+        <h5>Contact Us</h5>
+        <img src="{{ site.baseurl }}/img/projects/russian/hifis/ContactUs.png" class="img-responsive img-centered" alt="" >
+        </div>
+        </div>
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
 
   
 
