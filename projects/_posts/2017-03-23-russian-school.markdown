@@ -428,6 +428,7 @@ Sitemap and user journey maps were created to visualise how users will navigate 
     </div>
     </div>
 </div>
+
 <div class="portfolio-modal modal fade" id="hifi" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content" style="padding-top: 20px">
         <div class="close-modal" data-dismiss="modal">

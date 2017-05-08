@@ -3,7 +3,8 @@ title: Intelligent Interfaces with NLP
 subtitle: Implications and opportunities for HCI
 layout: project
 date: 2017-04-24
-head: image
+head: vimeo2
+vimeo: https://vimeo.com/216451843
 img: voicenew-01.png
 thumbnail: voicenew-01.png
 permalink: projects/voiceassistants
