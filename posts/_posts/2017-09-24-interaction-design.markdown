@@ -2,8 +2,8 @@
 title: Designing for the human experience
 subtitle: " Technologies that touch our lives: a case for mindful design strategies"
 date: 2017-07-17
-img: twid-2.jpg
-thumbnail: twid-2.jpg
+img: twid.jpg
+thumbnail: twid.jpg
 description: The ways in which we interact with technology is changing. As designers, we should be mindful about designing for not only good user experience but to enhance the human experience. This article called 'Designing for the human experience' aims to capture these daily interactions with different technologies, to ask the hard questions and to start a conversation about mindful design strategies.
 tags: design
 ---
