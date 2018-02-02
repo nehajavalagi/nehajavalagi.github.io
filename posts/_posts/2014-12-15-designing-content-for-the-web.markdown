@@ -9,6 +9,8 @@ description: As the creative head for the technical festival, it was my job to d
 tags: design
 ---
 
+_As the creative head for the technical festival, it was my job to design content for the marketing materials used. The descriptions had to be innovative, quirky and eyeball grabbing._
+
 **Prezenta**  
 
 We are sure you have brilliant ideas. But if you can’t get them across they can’t get you anywhere. Welcome to Prezenta, a technical presentation competition where all you need is something to say and a burning desire to say it.  

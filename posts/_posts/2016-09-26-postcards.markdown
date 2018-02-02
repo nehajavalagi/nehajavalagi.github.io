@@ -9,6 +9,8 @@ description: The invention of email has revolutionized how we communicate with o
 tags: design
 ---
 
+_The invention of email has revolutionized how we communicate with our loved ones. The art of writing letters or postcards is a thing of the past. While emails have provided an instant, reliable way of communication, what have we lost?_
+
 Write him a postcard,  
 when the attachment is too long;  
 He’s a whole drive away,  

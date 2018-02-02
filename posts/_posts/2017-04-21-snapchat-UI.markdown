@@ -9,6 +9,8 @@ tags: design
 layout: post
 ---
 
+_The Snapchat UI and UX have long being deemed as 'unintuitive' and 'non-discoverable' and in general not user-friendly. However, millenials have no problems using the app and find the 'hard to discover' interface as a plus because their parents can't figure out what to do! Also, they find joy and a sense of being an 'insider' on figuring out some hidden options. This debate aims to capture both viewpoints and study the hotly debated user interface._
+
 Few UX critics sat to snap,  
 ‘How will my grandma use this app?’  
 One said that they were of the past,  

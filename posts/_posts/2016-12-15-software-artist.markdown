@@ -8,6 +8,11 @@ thumbnail: softartist.jpg
 description: As a creative writer, blogger and technology enthusiast I wondered whether I wanted to be an artist or a computer engineer. Then, I realised I didn't have to choose. I could be both. I decided to carve for myself my own place, my own position -- a software artist.
 tags: design
 ---
+
+
+_As a creative writer, blogger and technology enthusiast I wondered whether I wanted to be an artist or a computer engineer. Then, I realised I didn't have to choose. I could be both. I decided to carve for myself my own place, my own position -- a software artist._
+
+
 A **designer of an everyday thing** called life,  
 **A dis-play** on words, I **interact.**  
 I’m a **poster** girl for a **developing** alliance,  

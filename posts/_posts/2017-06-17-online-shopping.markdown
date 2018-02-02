@@ -1,6 +1,6 @@
 ---
 title: Keeping tabs on online shopping
-subtitle: There is no line here
+subtitle: Redesigning the On-line shopping experience
 layout: post
 date: 2017-07-17
 img: ecommerce.jpg
@@ -8,6 +8,10 @@ thumbnail: ecommerce.jpg
 description: This article explores the differences between shopping in physical stores and online stores. It presents the challenges and benefits of both while highlighting opportunities for improving both experiences.
 tags: design
 ---
+
+_This article explores the differences between shopping in physical stores and online stores. It presents the challenges and benefits of both while highlighting opportunities for improving both experiences.
+tags: design_
+
 
 I am a part of the generation you would call millennials. Keeping tabs on the latest shopping trends, we are redefining the window shopping experience. I remember the days of brick and mortar stores, all hands and feet, needing to think what I think I need. There are parking lots (when scrambled become lost with good reason) and my cart is a pushover. There is a certain anxiety walking down the aisle, one that I am not ready for yet. I stand in line to play a game of smoke and mirrors, and I leave with some well-lit selfies. I keep an eye out for what someone else has picked, what a little birdie told me was trending. I wonder what people like me are going to judge me buy. I come home with bags I paid for, for stuff I didn’t know I need. Then, I find my missing shopping list, my newborn niece’s dress is so yesterday and my Fitbit tells me I’ve taken too many steps on my customer journey. I’m too tired to return.
 

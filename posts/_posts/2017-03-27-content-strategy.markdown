@@ -9,6 +9,9 @@ description: SEO, you think you can write for the web? Writing for the web is an
 tags: design
 ---
 
+_SEO, you think you can write for the web? Writing for the web is an ardous task especially considering our dwindling attention spans and our habit of skimming through information. Thus, writing for the web requires a deeper understanding of people's online reading patterns. Here are some tips for writing effectively for the web._
+
+
 1) **Content : To what degree?**  
 Content is not what you make for users. It is what you make users.
 

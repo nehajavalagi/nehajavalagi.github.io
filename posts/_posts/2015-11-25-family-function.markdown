@@ -1,6 +1,6 @@
 ---
 title: A family function
-subtitle: Personification of programming languages 
+subtitle: "Personification of programming languages" 
 layout: post
 date: 2015-11-25
 img: functions.jpg
@@ -9,6 +9,9 @@ description: Another poem in the series of poems I wrote for the Computer Depart
 
 tags: design
 ---
+
+
+_Another poem in the series of poems I wrote for the Computer Department Technical Newsletter. In this poem, I aimed to introduce students to the quirks and subleties of different programming languages by giving them personalities._
 
 To these **functions** you see, you’re invited by **reference**,  
 where every **paradigm** with style competes for reverence.  

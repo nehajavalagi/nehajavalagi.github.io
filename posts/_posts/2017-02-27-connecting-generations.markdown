@@ -10,6 +10,8 @@ tags: design
 ---
 ![dsc_01241.jpg](img/design/grandparents.jpg) 
 
+_On the occasion of my grandparents' anniversary, I took a moment to reflect how technology has permeated our lives and has changed how we interact, build relationships and even love._
+
 I come from a generation that falls in like. We converse in abbreviations, the lost art of letter writing, we fail to see the magic of spell-binding words. We make fleeting connections end to end encrypted, and as I see everyone gathered here today to celebrate this moment with them, I ask whether with every generation only our networks make better connections. We believe that we are tied down by strings attached, where we make Github commits faster than actual ones. We need smartwatches that remind us to take walks and take water, artificially intelligent bots that remind us to be human. And with all that technology, my grandmom doesn’t even wear a watch and clocks run their time by her.
 
 We’re thousand screaming screens and our smart devices we keep tabs on. We’re instant updates, one can surely live later? In the world of number crunching, I forget phone numbers. We outsource remembering birthdays. My grandmom dates the Google calendar. She remembers and reminds, the importance of keeping time as well as keeping with the times.

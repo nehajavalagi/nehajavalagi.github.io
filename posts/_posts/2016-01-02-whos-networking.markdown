@@ -8,6 +8,9 @@ thumbnail: networking.jpg
 description: Here, I used personification as a tool and poetry as a medium to a communicate complex technical concept -- network protocols. This personification made it easier for students to contrast the two!
 tags: design
 ---
+
+_Here, I used personification as a tool and poetry as a medium to a communicate complex technical concept -- network protocols. This personification made it easier for students to contrast the two!_
+
 *(where T is TCP Transmission Control Protocol and U is User Datagram protocol)*
 
 **OSI layer 5** held its annual election,  

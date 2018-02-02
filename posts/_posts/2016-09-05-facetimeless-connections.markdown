@@ -9,6 +9,8 @@ description: This poem aims to capture the interaction that happens using the me
 tags: design
 ---
 
+_This poem aims to capture the interaction that happens using the medium of a Video Call in the context of a long distance relationship._
+
 Retina displays fail the browns of your eyes,  
 Caramel melting in the burnt Texan sun.  
 With defining clarity, distance lies,  

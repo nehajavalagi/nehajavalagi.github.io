@@ -9,6 +9,10 @@ description: This poem aims to capture the different emotions a candidate goes t
 tags: design
 ---
 
+_This poem aims to capture the different emotions a candidate goes through while applying for a job interview. While technology has made it easier to seek out and test candidates, does it do them justice? _
+
+
+
 My life on paper, white lies in black,  
 Pulling requests, glass doors pushed back.  
 

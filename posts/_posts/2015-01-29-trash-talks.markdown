@@ -9,6 +9,8 @@ description: A poem shaming the litterbugs that are making this country the mons
 tags: design
 ---
 
+_A poem shaming the litterbugs that are making this country the monster dump it is turning out to be. It aims to Guilt trip people into picking up the pieces they have left behind. Written for The Great Indian (Times of India)_
+
 It’s not your job is it?
 to see Cleansweep Modi’s campaign through?  
 You see right through the dump; 

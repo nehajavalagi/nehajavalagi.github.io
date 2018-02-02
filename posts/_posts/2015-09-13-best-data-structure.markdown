@@ -9,6 +9,9 @@ description: As a creative writer for a the Computer Department's Technical News
 
 ---
 
+_As a creative writer for a the Computer Department's Technical Newsletter, I wanted to make learning core Computer Science concepts fun! While this format was completely unexpected by students, they took to it positively. I have always been interested in finding innovative ways to help people understand complex concepts better -- be it through design or poetry!_
+
+
 The compilers came when they were called,  
 for a reference had to be resolved.  
 A committee was formed for them to find,  

@@ -9,6 +9,8 @@ description: When I decided to create a logo for myself, I had to understand wha
 tags: design
 ---
 
+_When I decided to create a logo for myself, I had to understand what my essence was. What should my logo say about me? Well, I decided to let my words do the talking!_
+
 *(Word cloud generated using python nltk and Word Cloud library. Words have been taken from all my online published content)*
 
 I am poetry in a dress.  

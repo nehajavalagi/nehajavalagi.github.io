@@ -9,6 +9,10 @@ description: The artificial intelligence of tomorrow will learn right from wrong
 tags: design
 ---
 
+_The artificial intelligence of tomorrow will learn right from wrong based on our actions..our data. To train machines to be empathetic, morally sound and unbiased, are we modelling that behaviour? How much does the data fed to us affect our behaviour, and if so.. how are we different than machines?_
+
+
+
 There is no putting it softly,  
 I’m hardly perfect.
 

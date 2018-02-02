@@ -9,6 +9,8 @@ description: Articulation begins with ART for a reason. While my primary mode of
 tags: design
 ---
 
+_Articulation begins with ART for a reason. While my primary mode of articulation is through poetry and prose, it also extends to design. Here, I aim to present what my poetry says about me and how that would aim in becoming a good UX designer/ researcher._
+
 So you can rhyme a word or two,  
 But poets sonnet worth few.  
 For paper cuts, drunk ink blots  
