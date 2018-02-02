@@ -69,9 +69,9 @@ With my need to be constantly and instantly connected, I sit right next to a pow
 
 I look at its blank screen waiting for it to shudder to life and push on to me numerous notifications. I wait to swipe to unlock my portal to the world at the touch of my fingers.
 
-**Just for a second, I wonder if only a blank screen allows for reflection.
+**Just for a second, I wonder if only a blank screen allows for reflection.**
 
-My phone instantly lights up.**
+**My phone instantly lights up.**
 
 ----
 ****
