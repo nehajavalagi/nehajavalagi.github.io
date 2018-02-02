@@ -1,7 +1,6 @@
 ---
 title: Keeping tabs on online shopping
-subtitle: Redesigning the On-line shopping experience
-layout: post
+subtitle: "'There is no line here': Redesigning the on-line shopping experience"
 date: 2017-07-17
 img: ecommerce.jpg
 thumbnail: ecommerce.jpg
