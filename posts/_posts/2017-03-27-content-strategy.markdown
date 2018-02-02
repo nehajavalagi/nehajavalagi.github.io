@@ -1,11 +1,11 @@
 ---
-title: Think you can write for the web?
+title: SEO, you can write for the web?
 subtitle: "10 lessons in content strategy. #8 will blow you away."
 layout: post
 date: 2017-03-28
 img: seoblog.jpg
 thumbnail: seoblog.jpg
-description: SEO, you think you can write for the web ?
+description: SEO, you think you can write for the web? Writing for the web is an ardous task especially considering our dwindling attention spans and our habit of skimming through information. Thus, writing for the web requires a deeper understanding of people's online reading patterns. Here are some tips for writing effectively for the web.
 tags: design
 ---
 

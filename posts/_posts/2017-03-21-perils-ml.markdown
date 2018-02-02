@@ -1,11 +1,11 @@
 ---
 title: The perils of machine learning
-subtitle: Why I need to step up to be an unbiased, empathetic human being?
+subtitle: Why do I need to step up to be an unbiased, empathetic human being?
 layout: post
 date: 2017-03-21
 img: hand_ai.jpg
 thumbnail: hand_ai.jpg
-description: 
+description: The artificial intelligence of tomorrow will learn right from wrong based on our actions..our data. To train machines to be empathetic, morally sound and unbiased, are we modelling that behaviour? How much does the data fed to us affect our behaviour, and if so.. how are we different than machines?
 tags: design
 ---
 
@@ -24,7 +24,7 @@ standing on my moral ground.
 Is it fair that am an instance sought,  
 when data itself trains my thought?
 
-To break a barrier,  courage mustered,  
+To break a barrier, courage mustered,  
 Isn’t it regressing then to be clustered?
 
 And when I disrupt to diversify,  
@@ -51,7 +51,7 @@ Aren’t stories written by outliers?
 And I would converge, me a naysayer  
 If there’s a deeper learning of my hidden layer.
 
-Learning from  mistakes to make a new one,  
+Learning from mistakes to make a new one,  
 Can I first be a model human?
 
 Trained to stay in line and tested fit,  

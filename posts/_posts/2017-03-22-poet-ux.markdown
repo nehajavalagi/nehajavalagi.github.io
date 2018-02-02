@@ -5,7 +5,7 @@ layout: post
 date: 2017-03-22
 img: typewriter.jpg
 thumbnail: typewriter.jpg
-description: 
+description: Articulation begins with ART for a reason. While my primary mode of articulation is through poetry and prose, it also extends to design. Here, I aim to present what my poetry says about me and how that would aim in becoming a good UX designer/ researcher.
 tags: design
 ---
 

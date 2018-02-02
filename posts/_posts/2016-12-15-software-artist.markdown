@@ -5,7 +5,7 @@ layout: post
 date: 2017-03-22
 img: softartist.jpg
 thumbnail: softartist.jpg
-description: 
+description: As a creative writer, blogger and technology enthusiast I wondered whether I wanted to be an artist or a computer engineer. Then, I realised I didn't have to choose. I could be both. I decided to carve for myself my own place, my own position -- a software artist.
 tags: design
 ---
 A **designer of an everyday thing** called life,  
@@ -29,7 +29,7 @@ Students **IOT**-a experience, not lacking **in-tuition**
 **Connecting dots**, a forward **transition**.
 
 When the future is now**, i-no-wait**,  
-I dream in clouds, **invision**, **sketch**.  
+I dream in clouds, **invision** then **sketch**.  
 New Times girl with a friendly **interface**.  
 I see a canvas in python’s blank space.
 

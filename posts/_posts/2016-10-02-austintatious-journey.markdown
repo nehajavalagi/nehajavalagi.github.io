@@ -41,7 +41,7 @@ But summer is infinite.
 
 When we’re out of the **woods**,  
 I’ll let opportunity knock.  
-For the only way it’s done me wrong,  
+For the only way its done me wrong,  
 Is by not being New York.
 
 But when the music is **a-live**,  

@@ -1,16 +1,16 @@
 ---
 title: Who's Network-king?
-subtitle: Personification as a tool to communicate technical concepts 
+subtitle: TCP vs UDP: a poetic debate
 layout: post
 date: 2016-01-02
 img: networking.jpg
 thumbnail: networking.jpg
-description: 
+description: Here, I used personification as a tool and poetry as a medium to a communicate complex technical concept -- network protocols. This personification made it easier for students to contrast the two!
 tags: design
 ---
 *(where T is TCP Transmission Control Protocol and U is User Datagram protocol)*
 
-**OSI layer 5** held it’s annual election,  
+**OSI layer 5** held its annual election,  
 Which teacher had made the best **connection**?  
 **Packets** and packets they reviewed **feedback**,  
 To crown **network-king** of the **protocol stack**.
@@ -27,14 +27,14 @@ but things were better understood in flow.
 
 T really cared if his students understand,  
 every student raises an **acknowledging hand.**  
-An **orderly** fellow,he **checks their errors**,  
+An **orderly** fellow, he **checks their errors**,  
 but his **bigheadedness** gave the network terrors.
 (Header of TCP is 20 bytes while size of UDP header is 8 bytes)
 
-U keeps **switching**,he’s always on call,  
+U keeps **switching**, he’s always on call,  
 who believes good things come in **packets small**.  
-A man of hi-fives ,**handshakes** long past,  
-Making the **best effort**,isn’t one to **broadcast**.
+A man of hi-fives, **handshakes** long past,  
+Making the **best effort**, isn’t one to **broadcast**.
 
 **Traffic and congestion**,there was a huge turnout,  
 As everyone wondered for whom to **route**.  

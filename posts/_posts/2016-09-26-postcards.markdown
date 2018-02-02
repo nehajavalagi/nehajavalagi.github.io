@@ -5,13 +5,13 @@ layout: post
 date: 2016-09-26
 img: postcard.jpg
 thumbnail: postcard.jpg
-description: 
+description: The invention of email has revolutionized how we communicate with our loved ones. The art of writing letters or postcards is a thing of the past. While emails have provided an instant, reliable way of communication, what have we lost?
 tags: design
 ---
 
 Write him a postcard,  
 when the attachment is too long;  
-He’s  a whole drive away,  
+He’s a whole drive away,  
 and your head is in the cloud.
 
 Write him an email,  
@@ -21,7 +21,7 @@ word’s fidelity is a gift.
 
 Write him a postcard,  
 let someone find the way  
-For  there’s no bouncing back,  
+For there’s no bouncing back,  
 when faith’s leap goes astray.
 
 Write him an email,  
@@ -35,12 +35,12 @@ If the emptiness of the subject,
 Has slid windows closed.
 
 Write him an email,  
-At the rate  which he’s running  
+At the rate which he’s running  
 And both of you can now pretend,  
 you just didn’t see it coming.
 
 Write him a postcard,  
 let it reach him too late,  
 It’s an encryption that says,  
-words don’t change with  date.
+words don’t change with date.
 

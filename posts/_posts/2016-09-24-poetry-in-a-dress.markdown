@@ -5,7 +5,7 @@ layout: post
 date: 2016-09-24
 img: oldtypewriter.jpg
 thumbnail: oldtypewriter.jpg
-description: 
+description: When I decided to create a logo for myself, I had to understand what my essence was. What should my logo say about me? Well, I decided to let my words do the talking!
 tags: design
 ---
 
