@@ -3,7 +3,7 @@ title: Designing content for the web
 subtitle: "My role as the creative head for online marketing and content management"
 layout: post
 date: 2014-12-15
-img: seo.png
+img: webcontent.png
 thumbnail: webcontent.png
 description: As the creative head for the technical festival, it was my job to design content for the marketing materials used. The descriptions had to be innovative, quirky and eyeball grabbing.
 tags: design
