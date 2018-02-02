@@ -1,11 +1,11 @@
 ---
 title: Trash talks
-subtitle: Designing content for a poster for The Great Indian Litterbug campaign
+subtitle: "Designing content for a poster for The Great Indian Litterbug campaign"
 layout: post
 date: 2015-01-29
 img: trash.jpg
 thumbnail: trash.jpg
-description: A poem shaming the litterbugs that are making this country the monster dump it is turning out to be. It aims to Guilt trip people into picking up the pieces they have left behind. Written for - The Great Indian (Times of India)
+description: A poem shaming the litterbugs that are making this country the monster dump it is turning out to be. It aims to Guilt trip people into picking up the pieces they have left behind. Written for The Great Indian (Times of India)
 tags: design
 ---
 

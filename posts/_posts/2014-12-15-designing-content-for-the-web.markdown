@@ -1,6 +1,6 @@
 ---
 title: Designing content for the web
-subtitle: My role as the creative head for online marketing and content management
+subtitle: "My role as the creative head for online marketing and content management"
 layout: post
 date: 2014-12-15
 img: seo.png

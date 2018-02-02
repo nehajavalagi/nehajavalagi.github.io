@@ -1,11 +1,12 @@
 ---
 title: The best data structure
-subtitle: Which is the best data structure of them all? A debate in poetry
+subtitle: "Which is the best data structure of them all? A debate in poetry"
 layout: post
 date: 2015-09-13
 img: datastructure.png
 thumbnail: datastructure.png
 description: As a creative writer for a the Computer Department's Technical Newsletter, I wanted to make learning core Computer Science concepts fun! While this format was completely unexpected by students, they took to it positively. I have always been interested in finding innovative ways to help people understand complex concepts better -- be it through design or poetry!
+
 ---
 
 The compilers came when they were called,  

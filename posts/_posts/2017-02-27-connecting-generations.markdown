@@ -5,7 +5,7 @@ layout: post
 date: 2017-02-27
 img: connecting.jpg
 thumbnail: connecting.jpg
-description: 
+description: On the occasion of my grandparents' anniversary, I took a moment to reflect how technology has permeated our lives and has changed how we interact, build relationships and even love.
 tags: design
 ---
 ![dsc_01241.jpg](img/design/grandparents.jpg) 
