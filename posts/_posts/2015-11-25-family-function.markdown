@@ -1,6 +1,6 @@
 ---
 title: A family function
-subtitle: "Personification of programming languages" 
+subtitle: "Personification of a family of programming languages" 
 layout: post
 date: 2015-11-25
 img: functions.jpg

@@ -2,13 +2,14 @@
 title: Designing for the human experience
 subtitle: " Technologies that touch our lives: a case for mindful design strategies"
 date: 2017-07-17
-img: twidling.jpg
-thumbnail: twidling.jpg
+img: twid.jpg
+thumbnail: twid.jpg
 description: The ways in which we interact with technology is changing. As designers, we should be mindful about designing for not only good user experience but to enhance the human experience. This article called 'Designing for the human experience' aims to capture these daily interactions with different technologies, to ask the hard questions and to start a conversation about mindful design strategies.
 tags: design
 ---
 _The ways in which we interact with technology is changing. As designers, we should be mindful about designing for not only good user experience but to enhance the human experience. This article called 'Designing for the human experience' aims to capture these daily interactions with different technologies, to ask the hard questions and to start a conversation about mindful design strategies._
 
+**By the twiddling of our thumbs**
 
 In the corner of my corner office, my eyes dart from one screen to another, like a game of ping-pong.
 
@@ -52,13 +53,15 @@ While I know and understand this, I still find myself going back to these apps, 
 I question the founding principles of some of these technologies, put my foot down and say that this data is mine. I get to choose who gets to know me, who has access to my private life.
 
 **Data mine is mine I say.**
+
 **Precisely, they say.**
+
 **Data yours is (a) data mine.**
 
 ----
 ****
 
-** Reflecting screens **
+**Reflecting screens**
 
 The tired retina displays of my vacant eyes stare at a blank screen. Incessant warnings, calls for connections were ignored and I now deal with an eventual breakdown. I wonder if I should be more mindful of its mental health. I search frantically for my charging cable, a frayed wire, an enabler of loose ties. I plug it into my computer and I wonder if this what an interaction looks like today. One device connected to the other, asking permissions to access its contents.
 
@@ -67,6 +70,7 @@ With my need to be constantly and instantly connected, I sit right next to a pow
 I look at its blank screen waiting for it to shudder to life and push on to me numerous notifications. I wait to swipe to unlock my portal to the world at the touch of my fingers.
 
 **Just for a second, I wonder if only a blank screen allows for reflection.
+
 My phone instantly lights up.**
 
 ----

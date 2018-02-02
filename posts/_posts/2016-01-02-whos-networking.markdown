@@ -1,6 +1,6 @@
 ---
 title: Who's Network-king?
-subtitle: "TCP vs UDP: a poetic debate"
+subtitle: "TCP vs UDP: a poetic debate to learn complex networking concepts"
 layout: post
 date: 2016-01-02
 img: networking.jpg

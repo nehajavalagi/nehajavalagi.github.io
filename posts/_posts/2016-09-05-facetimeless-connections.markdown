@@ -1,6 +1,6 @@
 ---
 title: Facetimeless connections
-subtitle: Facing time away with FaceTime
+subtitle: Facing time away with FaceTime: Connected in the new age
 layout: post
 date: 2016-09-05
 img: facetime.jpg
