@@ -6,6 +6,7 @@ img: twid.jpg
 thumbnail: twid.jpg
 description: The ways in which we interact with technology is changing. As designers, we should be mindful about designing for not only good user experience but to enhance the human experience. This article called 'Designing for the human experience' aims to capture these daily interactions with different technologies, to ask the hard questions and to start a conversation about mindful design strategies.
 tags: design
+layout: post
 ---
 _The ways in which we interact with technology is changing. As designers, we should be mindful about designing for not only good user experience but to enhance the human experience. This article called 'Designing for the human experience' aims to capture these daily interactions with different technologies, to ask the hard questions and to start a conversation about mindful design strategies._
 

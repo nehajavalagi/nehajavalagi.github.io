@@ -1,0 +1,90 @@
+---
+title: Adventures with Alexa - bad dates and sour grapes
+subtitle: "UX principles for voice design"
+date: 2018-08-05
+img: baddates.jpg
+thumbnail: baddates.jpg
+description: Adventures with Alexa
+tags: design
+layout: post
+---
+What must one do today, to be suitably engaged? I wondered.
+
+
+Why did so many interactions not go beyond the ‘first date’? Why did we lose at-traction after a week or two?
+
+
+Oh, you just need to find the one that really speaks to you! You’ll be spoken for in no time! they’d say.
+
+
+And yet, I would find myself swiping left to my devices, searching for those magical (mythical) experiences that keep you going back for more.
+
+
+I want to share fictional stories of frictional interactions in the hope that I can start a (hopefully meaningful and engaging) conversation about designing meaningful and engaging conversations and experiences.
+
+
+> I use the analogy of ‘bad first dates’ and ‘failed engagements’ to highlight with examples the common pitfalls while designing good voice experiences that people enjoy and come back to. I hope these fun stories give you a new way to evaluate your skill/action experience.
+
+
+Skilly on the first date went on and on about what he did. Whatever did I do to invoke such a reaction? Surely I didn’t ask him to actually open up? When he spoke a 1000 words, I absolutely got the whole picture. Skilly loved the sound of his own voice! While he walked me through his work, I would find myself trailing off. Even though I willed myself to pay attention, the words would fly right past me and I would fail to catch a break. Sigh! I did not find myself attracted to his breathless charm. Surely, word(l)y men only ramble on the first date. He just wants to put himself out there I thought. I decided to give him another chance.
+
+
+When I took a second call, however, we went right back to the start. Oh, how I wished he won’t learn me anew! I did not feel like there was any space for me to grow, or that he’ll ever adapt to my needs. I’d always be on edge, hanging on to his every word, trying to get a word in edgeways.
+
+
+I didn’t have to tell him in so many words that it wasn’t working.
+
+
+> Lessons for designers: Use short, simple phrases. Introductions should be brief for future interactions, with frequency comes brevity! Use breaks and pauses to make it sound more natural ( Use the one breath test )
+
+
+I found Mr. Skilter to be very mysterious. We played a little guessing game where I tried to figure out what he did. Oh how exciting, imagine the possibilities! He would profusely apologise every single time I asked him something that he did not know. If only he’d tell me what he could actually do! It could have been a conversation starter to bring it to the main course. It soon became evident as the only element of surprise, that what he did do was surprisingly elementary.
+
+
+And as if to get back to me for my open ended questions, he never openly ended questions! He’d wait in silence for me to say something, and I’d realise I missed the Q. And while I pondered the question, he’d para — phrase the question and talk to me like a child! He’d tell me what I should say, and I did not approve of this hand holding in my relationship.
+
+
+If he would have popped the question, I would have missed it too! My leading man wouldn’t lead me on, would he?
+
+
+> Lessons for designers: Do not ask open ended questions like ‘How may i help you?’ if your skill does something very specific. Avoid verbose formal apologies every single time you get a no match or no speech error, rephrase the question in a simple manner and prompt the user. If your skill cannot handle a particular query, you can educate the user on what the skill can do. Avoid framing questions where a choice is to be made in a way that the answer can be yes. End with a question and make it clear that an answer is expected.
+
+
+Oh, Skillip! The first thing I noticed about Skillip was the obvious lack of personality. His voice did not resonate nor did it strike the right chord with me. I was promptly welcomed by his bland identity. It felt like he was reading the wrong notes. While his profile seemed very pleasing, I was disappointed he did not voice the same image. It was an eye opening experience really.
+
+
+While I wanted to play it by ear, he would constantly ask me to come see him. This was not The Voice I would move my seat for to take a look and choose!
+
+
+The voice did not connect with me, and nothing else synthesised.
+
+
+> Lessons for designers: Pay attention to prosody and design the personality of your skill. Think about the voice of your brand. Does it speak to the right audience? Also, multimodality is a choice. The audio and visual prompts should make sense by themselves. Do not make the user look at the screen.
+
+
+Skillsie and I had a good interaction. While I enjoyed our interactions, he would leave me confused. Is it over? Are we still talking? Is this where you drop me off? Should I reach out to you or wait for you to say something? Can I talk to someone else while we’re still talking? Hello?
+
+
+I didn’t want to be hung up on the ghost of interactions past.
+
+
+> Lessons for designers: Make it clear to your users when they’ve entered or exited a skill experience.
+
+
+It felt like Skilliam was trying too hard. He would confirm with me every tiny little detail. I quickly got annoyed by this constant reassuring. It seemed like his basic understanding was far from the compounds of complex concepts. A healthy relationship doesn’t make you constantly break down, does it? It naturally became overwhelming to break my natural flow and follow someone else’s crafted order. While I wanted a Hollywood romance, I realised I didn’t want it to be so scripted.
+
+
+He later went his way since he never bothered to learn mine anyway. He’d always forget where he’d dropped me off! We had rubbed each other off the wrong way in an obviously f(r)ictional interaction.
+
+
+> Lessons for designers: Do not over-confirm for details that would not significantly change the skill experience or outcome. Support different flows, guide novice users and adapt to expert users.
+
+
+What must one do today, to be suitably engaging? I wonder.
+
+
+Well for starters, don’t be like Skilly, Skilliam, Skillsie, Skilter or Skillip!
+
+----
+
+> Writer’s note: For the sake of story telling, my skills are ‘male’ characters. They could very well have been female characters. The purpose of writing this was only to present the personalities of different skills and draw parallels between a voice interaction experience and a date. If you want to learn more about designing voice interfaces, I would recommend Cathy Pearl’s ‘ Designing Voice user Interfaces’

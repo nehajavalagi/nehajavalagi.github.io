@@ -1,0 +1,48 @@
+---
+title: SunUps
+subtitle: "Mind and body exercise with Alexa"
+layout: project
+date: 2018-06-01
+head: youtube
+youtube: XEwXdCGLMDU
+img: sunups.png
+thumbnail: sunups.png
+permalink: projects/sunups
+summary: SunUps is a 12 step mind and body exercise routine based on the ancient yogic practice of Surya Namaskar. We built an Alexa skill that allows you to learn, train, track and meditate.
+---
+### Alexa skill
+<a href="https://www.amazon.com/Neha-Javalagi-SunUps/dp/B07CKJF2NQ">Link</a>
+
+### Inspiration
+Sun Salutations is an age old yoga practice. In India, we were taught to do these in school. Later, after we left school and started with our busy adult lives we either forgot how to do them or we did not find the time to do them. After an illness, I was advised to perform this workout everyday as a way to build my stamina, strength, flexibility and overall emotional and physical well-being. After I made this workout my daily habit, I realised that we can leverage technology to help people adopt and keep this healthy habit. It is a efficient workout that is easy to learn and follow and provides amazing benefits. Using Alexa, we decided to make learning this workout easy and introduced flute music and chants to provide a wonderful experience while exercising. We wanted to remind everyone that exercise was not just about burning calories, but about having a good time while doing so. Hence, we decided to make a skill that trains newbies to perform this amazing workout, and tracks and rewards experts for their progress and determination. Later, we concurred that we wanted to build a healthy morning routine because when the day starts on a healthy note, people make better lifestyle choices all day. So along with workout, we added breathing exercises and meditation tracks. Thus, this skill is a 3 in 1 healthy morning routine.
+
+### What it does
+Sun ups provides the following features: 
+1. Workout
+	a. Browse mode In this mode, you can learn instructions for each step and say Next, Stop or Repeat to browse through steps and instructions. Pictures and instructions are provided in the Alexa app.
+	b. Training mode Here, you can follow along with instructions and say Stop when you're done. We understand that you can't say Next when you're exercising and hence made sure to give a follow along mode. This mode tracks your sets for you. 
+	c. Expert mode Here, soulful flute music and chants are provided so that users can maintain consistent rhythm. Say Stop when you're done and your sets will be tracked.
+
+You can ask for your score or reset your score. There are multiple levels to keep you challenged!
+
+2. Breathing exercise This is a 9 minute flute music track to perform breathing exercises. Instructions are provided in the app.
+
+3. Meditation There are two varieties of meditations available. One is an energising sun chants routine while the other is a guided relaxation to be performed post workout.
+
+The skill also provides you with tips as well as encouragement on your progress.
+
+### How we built it
+After we narrowed down our use case, we studied Voice Interface Design guidelines and principles. We spent considerable time identifying user stories and constructing paths and dialogues. We studied tens of skills, and their reviews to understand what users appreciate, require and find valuable. Then, we used nodejs, lambda and dynamoDB to make our skill. We used the Beta testing functionality available to identify any bugs and get initial feedback. We will continue to update the skill based on reviews and feedback.
+
+### Challenges we ran into
+It was quite challenging to build a Voice User Interface such that it rewards return users with variety and serendipity but guides new users to navigate and discover features without being overwhelmed. We wanted to build a skill that 'sticks', something that current echo Alexa skills find challenging. We needed to make sure the interaction was intuitive, making no assumptions about the user's familiarity with the workout or Alexa. As we were so used to designing with Graphical User Interfaces, we had to change the way we approached the problem and think in a 'voice-first' manner. However, with usability testing we were able to make sure we weren't making any undue assumptions and were able to design the skill in a way that users could naturally interact with.
+
+### Accomplishments that we're proud of
+We're happy that we could do our part to promote a healthy lifestyle and motivate people to take up and build healthy habits. It was a rewarding experience and we hope that we can make a difference in people's lives. We are also happy that we were early adopters of this technology. We gave due importance to designing a good voice interface and spent considerable time and effort working on it. We are also happy that we used visuals to aid the user's experience. Overall, we are proud of ourselves for making this age old yoga practice 'millennial friendly', adopting technology to aid and enrich physical fitness routines while also focusing on emotional wellbeing as well. The skill and its content is designed thoughtfully and with a lot of effort and love :)
+
+### What we learned
+We learnt a lot about Voice Design principles and methodologies, and coding with nodejs. But more than that, we learnt a lot about the art of conversation. We have started being more observant and appreciative of the nuances and subtleties in human language. We also learnt about what is happening in this space of designing for voice. We are excited to be a part of this community of developers and learning more about the advances happening in this field.
+
+### What's next for Sun Ups
+Next, we will solicit feedback and try to improve based on the feedback and reviews we get. We will add more variety in content such as variations in workout, meditations etc. We will also release the skill for other markets and tailor them accordingly by providing language support.
+

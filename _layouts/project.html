@@ -9,17 +9,19 @@
 				<h2>{{ page.title }}</h2>
 				<hr class="star-primary">
 				<p>{{ page.summary}}</p>
+				{% if page.logodesign %}
 				<br>
 				<hr class="star-primary">
 				<b>Logo Design</b><br>
 				<p>{{ page.logodesign}}</p>
-
+				{% endif %}
 			</div>
 			<div class= "col-sm-6">
 			{% if page.head == 'image' %} <img src= "{{ site.baseurl }}/img/projects/{{page.img}}" class="img-responsive img-centered">
 			{% elsif page.head == 'vimeo1' %} <iframe src="{{ page.vimeo }}?byline=0&portrait=0" width="498" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 			{% elsif page.head == 'vimeo2' %} <iframe src="https://player.vimeo.com/video/216451843" width="498" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/216451843">Natural Language Processing for conversational interfaces</a> from <a href="https://vimeo.com/user66375444">Neha Javalagi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>			{% endif %}				
+<p><a href="https://vimeo.com/216451843">Natural Language Processing for conversational interfaces</a> from <a href="https://vimeo.com/user66375444">Neha Javalagi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>			
+			{% elsif page.head == 'youtube' %} <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endif %}				
 			</div>
 		</div>
 			

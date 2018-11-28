@@ -6,6 +6,7 @@ img: ecommerce.jpg
 thumbnail: ecommerce.jpg
 description: This article explores the differences between shopping in physical stores and online stores. It presents the challenges and benefits of both while highlighting opportunities for improving both experiences.
 tags: design
+layout: post
 ---
 
 _This article explores the differences between shopping in physical stores and online stores. It presents the challenges and benefits of both while highlighting opportunities for improving both experiences.
